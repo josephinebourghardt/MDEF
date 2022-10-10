@@ -17,3 +17,8 @@ With a background in Product/ Furniture design my focus has been on working with
 and how the things around us affect people, mental health and the environment. My fight lies in creating a balance in the relationship between humans and nature and all that is in-between. Working with materials, production methods and communities to create regenerative environments.
 
 
+
+![](../images/Bootcamp/MAPPINGSELF.jpg)
+
+
+![](../images/Bootcamp/EXPECTATIONS.jpg)
