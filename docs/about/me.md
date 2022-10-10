@@ -1,8 +1,9 @@
 # About
 
-![](../images/perezoso.jpg)
-
 This is a space reflecting on pasts, the present and the future. 
+
+
+
 
 
 I’m Josephine. I have a background in Product/ Furniture design where my focus is working with social and environmental issues and how the things around us affect people, mental health and the environment. 
