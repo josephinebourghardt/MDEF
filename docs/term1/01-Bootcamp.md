@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Bootcamp
+# BOOTCAMP
 
 ![](../images/Bootcamp/POSTER.jpg)
 
