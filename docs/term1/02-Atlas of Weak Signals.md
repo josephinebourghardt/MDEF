@@ -15,4 +15,4 @@ The first exercise when using the AoWS toolkit was to randomly choose two weak s
 
 Afterwards we looked through all the cards and chose one that was associated with our ‘fight’ posters and vision. Thereafter we walked around the city to take photos of interventions regarding the card we chose. I chose the card Regenerative Design as it is an overall concept of my vision and Fight poster. 
 
-![](../images/term1/AoWS/regenerativephotos.jpg)
+![](../images/AoWS/regenerativephotos.jpg)
