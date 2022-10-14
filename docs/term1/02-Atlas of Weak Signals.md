@@ -16,3 +16,9 @@ The first exercise when using the AoWS toolkit was to randomly choose two weak s
 Afterwards we looked through all the cards and chose one that was associated with our ‘fight’ posters and vision. Thereafter we walked around the city to take photos of interventions regarding the card we chose. I chose the card Regenerative Design as it is an overall concept of my vision and Fight poster. 
 
 ![](../images/AoWS/regenerativephotos.jpg)
+While walking around the city I passed through the SuperBlocks in Sant Antoni, one of the projects opening up spaces in the city where cars have been dominant. The projects Super Blocks address challenges such as mobility, public space, bio diversity and social cohesion, involving the participation of local residents and organisations. It is a low cost, small scale intervention that adds spaces of greenery for both humans and animals to coexist in urban environments. 
+
+While continuing the journey through the city I walked passed a wall of graffiti paintings, where one of the art pieces cited ‘Lo que era antes’ - what has been - with a painting of a flower growing out of a tin can. What if what we produced could actually provide nurture to this flower growing, instead of overusing this flowers natural resources and spreading material that it can’t use…
+
+PERSONAL DESIGN SPACE
+This toolkit is part of a method to help us communicate thoughts and concepts while supporting to detect a direction of our vision and areas of interest. When starting on my personal design space showing areas of interest and direction narrowing down the selection of cards to just a few was a challenge. I realised I have many interests, although when connecting them there is an overall theme. 
