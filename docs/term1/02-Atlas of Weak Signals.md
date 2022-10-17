@@ -30,4 +30,10 @@ The random triggers around these Weak Signals can be divided into different sub 
 
 The subjects and signals in my Design Space are areas I want to learn more about. I am at the moment looking at these areas from a bigger perspective, being open to opportunities that are arising around me that can lead to an understanding of what areas to more specifically focus on.
 
+How can we design within planetary boundaries on a local level? How can we create awareness and understanding of what citizens can do with the resources that are around them? I am looking forward to the upcoming weeks where we will be introduced to many different topics, as well as reflecting and engaging with topics in my neighbourhood and home that can be opportunities of interest. 
+
+Some areas of interest that have arised while producing this Design Space are learning more about bio materials and synthetic biology, how it can be produced, used and reused. Using what already exists in nature to decrease waste and regenerate fuel for existing ecosystems. Other topics are about recycling waste and the recycling systems that exist in the area that I live, which I feel to be hard to understand and use. Many people I have spoken to in the neighbourhood are also unsure of the procedures and how it works. Can these be improved and communicated more clearly to decrease waste in the area? 
+
+
+
 ![](../images/AoWS/designspace.png)
