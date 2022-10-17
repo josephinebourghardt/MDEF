@@ -7,7 +7,7 @@ hide:
 
 ![](../images/Bootcamp/POSTER.jpg)
 
-What is my ‘Fight’?
+### What is my ‘Fight’?
 
 When starting The Master in Design for Emergent Futures we were asked to introduce ourselves and our ‘Fight’ or quest that drives us in a poster. The assignment was at this stage, for me, a difficult question to answer concretely as I have many fields of interest and that everything is connected.
 
