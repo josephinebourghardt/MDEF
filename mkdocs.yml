@@ -50,8 +50,9 @@ theme:
     accent: blue
   font:
     # See available fonts at https://fonts.google.com/
-    text: Be Vietnam
-    code: Cutive Mono
+    text: 'Space Mono'
+    code: monospace
+    
   icon:
     logo: material/memory
   favicon: images/favicon.svg
