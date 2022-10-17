@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# DesignStudio
+# **DESIGN STUDIO**
 
 THE ROLES OF PROTOTYPING 
 
