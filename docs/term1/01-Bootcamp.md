@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# BOOTCAMP
+# **BOOTCAMP**
 
 ![](../images/Bootcamp/POSTER.jpg)
 
@@ -17,6 +17,7 @@ With a background in Product/ Furniture design my focus has been on working with
 and how the things around us affect people, mental health and the environment. My fight lies in creating a balance in the relationship between humans and nature and all that is in-between. Working with materials, production methods and communities to create regenerative environments.
 
 PERSONAL DEVELOPMENT PLAN
+
 While mapping myself and what skills and knowledge I have now, as well as which ones I would like to have in the future the feeling of how little I know became overwhelming, as well as exciting when thinking about all the things there are to learn. Overall during this 9 month period of the master I plan to keep an open mind and to learn in every way possible. This development plan will therefor also evolve along the way as I evolve and learn more.
 
 ![](../images/Bootcamp/MAPPINGSELF.jpg)
