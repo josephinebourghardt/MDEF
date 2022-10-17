@@ -52,6 +52,8 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: Amiko
     code: monospace
+    text size: 11 px
+
     
   icon:
     logo: material/memory
