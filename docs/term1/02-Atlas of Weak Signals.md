@@ -29,3 +29,5 @@ The Weak Signals chosen were Climate Conscience, Fight Anthropocene Conflicts, I
 The random triggers around these Weak Signals can be divided into different sub categories. One evolves around working with material resources and production locally and reusability to design within planetary boundaries. This is prolonged into the area of collaborating with machines, questioning supply chains where open source innovation, personal fabrication and local production such as neighbourhood FabLabs could take part in the challenges of the first area. To extend these areas into practice the area of communicating and educating residents and users becomes one of the seeds and necessities for interventions in the other areas to start.
 
 The subjects and signals in my Design Space are areas I want to learn more about. I am at the moment looking at these areas from a bigger perspective, being open to opportunities that are arising around me that can lead to an understanding of what areas to more specifically focus on.
+
+![](../images/AoWS/designspace.png)
