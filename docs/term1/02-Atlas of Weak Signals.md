@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# ATLAS OF WEAK SIGNALS
+# **ATLAS OF WEAK SIGNALS**
 
 Josephine Bourghardt 16.10.22
 
@@ -20,7 +20,7 @@ While walking around the city I passed through the SuperBlocks in Sant Antoni, o
 
 While continuing the journey through the city I walked passed a wall of graffiti paintings, where one of the art pieces cited ‘Lo que era antes’ - what has been - with a painting of a flower growing out of a tin can. What if what we produced could actually provide nurture to this flower growing, instead of overusing this flowers natural resources and spreading material that it can’t use…
 
-PERSONAL DESIGN SPACE
+**PERSONAL DESIGN SPACE**
 
 This toolkit is part of a method to help us communicate thoughts and concepts while supporting to detect a direction of our vision and areas of interest. When starting on my personal design space showing areas of interest and direction narrowing down the selection of cards to just a few was a challenge. I realised I have many interests, although when connecting them there is an overall theme. 
 
