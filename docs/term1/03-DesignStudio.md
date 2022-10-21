@@ -31,4 +31,4 @@ During this year I’m looking to work more with prototyping as a vehicle for in
 
 DESIGN SPACE
 
-![](../images/Studio/NEWRTD.jpg)
+![](../images/Studio/rtdspace.jpg)
