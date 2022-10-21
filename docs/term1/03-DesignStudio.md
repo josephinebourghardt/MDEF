@@ -25,4 +25,10 @@ With this method of prototyping many different perspectives and understandings a
 
 ![](../images/Bootcamp/Prototypingroles.jpg)
 
-Throughout projects the different roles of prototyping provide information to help understand the situation and assess if it’s moving in the right direction and solving the right problem. In many projects they intertwine and are used within different phases of the process to collect and assess information.
+Throughout projects the different roles of prototyping provide information to help understand the situation and assess if it’s moving in the right direction and solving the right problem. In many projects they intertwine and are used within different phases of the process to collect and assess information and I use most of them in most projects to find inspiration, understand context and users, as a means of experimenting and testing hypothesis. 
+
+During this year I’m looking to work more with prototyping as a vehicle for inquiry, to work participatory with communities and other fields of expertise. In the past this is the one means of prototyping I have worked the least with, but one that I see one of the most interesting to evolve in. Furthermore using prototyping as a research archetype to illustrate and visualise possibilities and ideas as a means to start discussions and reflections. 
+
+DESIGN SPACE
+
+![](../images/Studio/NEW RTD WORKSPACE2.jpg)
