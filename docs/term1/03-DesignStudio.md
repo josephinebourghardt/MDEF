@@ -23,7 +23,7 @@ During projects this way of using prototypes can be a great way of understanding
 
 With this method of prototyping many different perspectives and understandings are brought into the process and become direction in where the project could be moving towards. The process becomes the important direction and by documenting and assessing the information that becomes visible along the way is can give more knowledge and insight than the actual result, if there is one. 
 
-![](../images/Bootcamp/Prototypingroles.jpg)
+![](../images/Studio/prototyping.jpg)
 
 Throughout projects the different roles of prototyping provide information to help understand the situation and assess if it’s moving in the right direction and solving the right problem. In many projects they intertwine and are used within different phases of the process to collect and assess information and I use most of them in most projects to find inspiration, understand context and users, as a means of experimenting and testing hypothesis. 
 
