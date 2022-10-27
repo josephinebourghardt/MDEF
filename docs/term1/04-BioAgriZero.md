@@ -7,8 +7,6 @@ hide:
 
 ![](../images/BioAgriZero/bazintro2.jpg)
 
-BIO ZERO
-
 This week we were introduced to the basics of biology, synthetic biology and bio materials. Biology can be seen as the study of life and can be studied very broadly focusing on the whole planet or in very specific studies of for example microscopic structures like bacteria or DNA. 
 
 We got an introduction to microbiology, the study of microorganisms, a diverse group of generally minute simple life-forms that include bacteria, archaea, algae, fungi, protozoa, and viruses. The field is concerned with the structure, function, and classification of such organisms and with ways of both exploiting and controlling their activities. 
