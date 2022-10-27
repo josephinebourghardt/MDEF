@@ -5,7 +5,7 @@ hide:
 
 # **BIO AGRI ZERO**
 
-![](../images/BioAgriZero/bazintro.jpg)
+![](../images/BioAgriZero/bazintro2.jpg)
 
 BIO ZERO
 
