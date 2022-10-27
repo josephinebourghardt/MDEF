@@ -52,7 +52,7 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: Montserrat
     code: monospace
-    text size: 11 px
+    text size: 8 px
 
     
   icon:
