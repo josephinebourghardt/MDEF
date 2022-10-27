@@ -22,7 +22,7 @@ We learned the importance of labelling and sorting samples to know what is what 
 We looked at different tissue and organs through microscopes to understand how different microscopes work. Learning about the possibilities of making your own DIY microscope. 
 
 ![](../images/BioAgriZero/bazmicroscope.jpg)
-
+![](../images/BioAgriZero/BAZ.jpg)
 With other recipes in the DIY Lab we made different Bio Materials, again with simple ingredients that can be found in supermarkets. Our group worked with Glycerine, Maizena and Vinegar, resulting in a Bio 'Plastic' with slightly transparent property depending on the thickness chosen. With flexible characteristics the thinnest sample seems to suit this recipe the best. 
 
 ![](../images/BioAgriZero/bazbiomaterials.jpg)
