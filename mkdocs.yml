@@ -50,7 +50,7 @@ theme:
     accent: blue
   font:
     # See available fonts at https://fonts.google.com/
-    text: Amiko
+    text: Montserrat
     code: monospace
     text size: 11 px
 
