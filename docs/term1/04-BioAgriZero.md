@@ -15,6 +15,16 @@ We got an introduction to microbiology, the study of microorganisms, a diverse g
 
 Thereafter we made our own DIY laboratory and created an All Purpose Medium with simple ingredients that can be found in the local supermarket to grow and analyse living matter. We went hunting for bacteria and chose to take samples from the bathroom door handle and different fingerprints. This was placed in the incubator to later observe and analyse if or what kind of bacteria grows.
 
-We learned the importance of labelling and sorting samples to know what is what and how it has been handled, taking notes on recipes, procedures, changes and time slots. We learned the procedure of using scientific methods to experiment.
+We learned the importance of labelling and sorting samples to know what is what and how it has been handled, taking notes on recipes, procedures, changes and time slots. We learned the procedure of using scientific methods to experiment to be able to communicate and analyse outcomes.
 
 ![](../images/BioAgriZero/bazgrowingbacteria.jpg)
+
+We looked at different tissue and organs through microscopes to understand how different microscopes work. Learning about the possibilities of making your own DIY microscope. 
+
+![](../images/BioAgriZero/bazmicroscope.jpg)
+
+With other recipes in the DIY Lab we made different Bio Materials, again with simple ingredients that can be found in supermarkets. Our group worked with Glycerine, Maizena and Vinegar, resulting in a Bio 'Plastic' with slightly transparent property depending on the thickness chosen. With flexible characteristics the thinnest sample seems to suit this recipe the best. 
+
+![](../images/BioAgriZero/bazbiomaterials.jpg)
+![](../images/BioAgriZero/bazbiomat2.jpg)
+
