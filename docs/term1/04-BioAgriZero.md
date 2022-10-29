@@ -28,7 +28,7 @@ With other recipes in the DIY Lab we made different Bio Materials, again with si
 
  In the Agri part we learned about bees and beekeeping and farm projects with the use of technology. Throughout the course we have been working with theory alongside practical work. Learning how to work with DIY Bioplastics, as well as growing Spirulina, was very inspiring and something I'll be working with more at home to investigate recipes and textures. I'm also interested to learn more about the opensource beehives and how to communicate these projects. 
 
-Analysis - Brexit paves the way for gene-edited crops
+**Analysis - Brexit paves the way for gene-edited crops**
 Published 29 September 2021
 
 By Pallab Ghosh
