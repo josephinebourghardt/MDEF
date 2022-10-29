@@ -21,12 +21,14 @@ We looked at different tissue and organs through microscopes to understand how d
 
 ![](../images/BioAgriZero/baz2.jpg)
  
-With other recipes in the DIY Lab we made different Bio Materials, again with simple ingredients that can be found in supermarkets. Our group worked with Glycerine, Maizena and Vinegar, resulting in a Bio 'Plastic' with slightly transparent property depending on the thickness chosen. With flexible characteristics the thinnest sample seems to suit this recipe the best. 
+With other recipes in the DIY Lab we made different Bio Materials, again with simple ingredients that can be found in supermarkets. Our group worked with Glycerine, Maizena and Vinegar, resulting in a Bio 'Plastic' with slightly transparent property depending on the thickness chosen. With flexible characteristics the thinnest sample seems to suit this recipe the best. Thereafter we learned how to grow Combucha and Spirulina.
 
 ![](../images/BioAgriZero/baz3.jpg)
 ![](../images/BioAgriZero/baz4.jpg)
 
-Brexit paves the way for gene-edited crops
+ In the Agri part we learned about bees and beekeeping and farm projects with the use of technology. Throughout the course we have been working with theory alongside practical work. Learning how to work with DIY Bioplastics, as well as growing Spirulina, was very inspiring and something I'll be working with more at home to investigate recipes and textures. I'm also interested to learn more about the opensource beehives and how to communicate these projects. 
+
+Analysis - Brexit paves the way for gene-edited crops
 Published 29 September 2021
 
 By Pallab Ghosh
