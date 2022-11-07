@@ -51,7 +51,7 @@ theme:
     accent: blue
   font:
     # See available fonts at https://fonts.google.com/
-    text: Josefin Sans
+    text: Josefin Slab
     code: monospace
     text size: 8 px
 
