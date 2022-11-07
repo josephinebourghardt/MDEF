@@ -65,7 +65,7 @@ The insight of how much water is used during everyday life was intense, and when
 
 ![](../images/LivingwithIdeas/film5.png)
 
-To extend the intervention I want to a predefined amount of water during a day, to investigate how I would distribute it and manage. I want to understand the challenges and reflections it could entail. Would I be able to live this way? Would I choose to live this way, needing to välja bort many of the things I take for granted in life, many things that I take for granted and think that I want.. Would other people do this? 
+To extend the intervention I want to use a predefined amount of water during a day, to investigate how I would distribute it and evaluate distribution. I want to understand the challenges and reflections it could entail. Would I be able to live this way? Would I choose to live this way, needing to evaluate many of the things I take for granted in everyday life, and choose which ones to do and whoch to not do anymore. Would other people do this? 
 
-How could water usage be communicated so people understand and want to choose to do things differently. 
+How could water usage be communicated so people understand and want to choose to do things differently? 
 
