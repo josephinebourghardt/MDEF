@@ -51,7 +51,7 @@ theme:
     accent: blue
   font:
     # See available fonts at https://fonts.google.com/
-    text: Montserrat
+    text: Josefin Sans
     code: monospace
     text size: 8 px
 
