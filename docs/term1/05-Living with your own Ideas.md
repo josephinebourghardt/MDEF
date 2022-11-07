@@ -54,16 +54,16 @@ In a second intervention I wanted to investigate water and consumption. Fresh wa
 
 Water is essential to all living things and access to fresh water should be a global right, yet in many parts of the world this is not the case where many people and living things are without access to freshwater. It made me wonder how much water I use daily and where this water comes from and how it’s handled. 
 
-![](../images/LivingwithIdeas/film1.jpg)
+![](../images/LivingwithIdeas/film1.png)
 
 During 24 hours I started to track and map the water that I used. It started at home, saving excess water in containers to understand how much water is wasted when washing hands, showering or washing dishes and other things. Very early on during the experiment I realised that I would be needing a lot of containers as they filled up extremely fast. When this water became visible I became very aware of the huge amounts of water I use, I also became very aware that this is the waste water that I can see. I began to investigate how much water that I can’t see is used for the things that I don’t associate with water, tracking water usage for food, clothes and objects. 
 
-![](../images/LivingwithIdeas/film3.jpg)
-![](../images/LivingwithIdeas/film4.jpg)
+![](../images/LivingwithIdeas/film3.png)
+![](../images/LivingwithIdeas/film4.png)
 
 The insight of how much water is used during everyday life was intense, and when adding the water usage used for clothes, food, products etc I was shocked. I reflected on how I could use less water and realised that the amounts I could actually influence where low in everyday life. The realisation of the systems that were living in, where we have no idea how things are actually managed. 
 
-![](../images/LivingwithIdeas/film5.jpg)
+![](../images/LivingwithIdeas/film5.png)
 
 To extend the intervention I want to a predefined amount of water during a day, to investigate how I would distribute it and manage. I want to understand the challenges and reflections it could entail. Would I be able to live this way? Would I choose to live this way, needing to välja bort many of the things I take for granted in life, many things that I take for granted and think that I want.. Would other people do this? 
 
