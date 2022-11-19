@@ -52,7 +52,7 @@ theme:
     accent: blue
   font:
     # See available fonts at https://fonts.google.com/
-    text: Sono
+    text: Roboto Mono
     code: monospace
     text size: 8 px
 
