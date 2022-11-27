@@ -36,7 +36,8 @@ Understand the behaviour in the community and pay attention to triggering events
 TOOLS · MAPPING
 
 Through mapping systems and systems within systems the aim was to understand how things affect each other and where in these systems to intervene. 
-
+![](../images/CommunityEngagement/map.png)
+Working in a group interested in waste streams, at the moment specifically food waste, we started mapping the subject and the systems that exist around us. Looking at the challenges, what already exists and how it has been worked with locally and globally. Now we wanted to understand ways of working with food waste in the systems around us. 
 
 TOOLS · SENSEMAKING
 
@@ -47,18 +48,16 @@ We make sense of complicated ideas by doing them, rather than studying them abst
 
 Reframing is the act of purposefully shifting the normative frame, often temporarily or in multiple directions at once, in order to see things from a new perspective. Designers may be able to manage multiple frames (commonly including "their own", "the user's", and "the business's") and realize tradeoffs when various frames are given precedent (3). 
 
+We had already done an intervention within the group cooking with the food waste that we had saved during 3 days. It was an event that helped us understand the situation of individual food waste from a first person perspective and the possibilities that can be created with it. I learned a lot of ways to use all parts of vegetables and new recipes. 
 
-Working in a group interested in waste streams, at the moment specifically food waste, we started mapping the subject and the systems that exist around us. Looking at the challenges, what already exists and how it has been worked with locally and globally. Now we wanted to understand ways of working with food waste in the systems around us. 
+To continue this intervention we have been looking for local creative communities within the area of Raval, a diverse and multicultural neighbourhood in Cuitat Vella, where some of us also live. A couple different opportunities arised with people in our surroundings that were also interested in the subject, including creating an art dinner with food waste, collecting food waste from a restaurant to experiment with biomaterials and the community garden Agora Juan Andres, where we will also be attending a community dinner that is arranged by the organisation Create Food not Bombs.  
 
-We had already done an intervention within the group cooking with the food waste that we had saved during 3 days. It was an event that helped us understand the situation of individual food waste from a first person perspective and the possibilities that can be created with it. I learned a lot of ways to use all
-
-We have been looking for local creative communities within the area of Raval, a diverse and multicultural neighbourhood in Cuitat Vella, where some of us also live. A couple different opportunities arised with people in our surroundings that were also interested in the subject, including creating an art dinner with food waste, collecting food waste from a restaurant to experiment with biomaterials and the community garden Agora Juan Andres, where we will also be attending a community dinner that is arranged by the organisation Create Food not Bombs.  
 During this community dinner we will be helping out during the event, but we also want to connect with the community and organisation and engage in possibilities of collaboration. We will also be observing and understanding the area and connections within it. 
 *”We are all actors: being a citizen is not living in society, it is changing it.”* 
 - Augusto Boal
-
-
-![](../images/TechMyth/Tbtm.5.jpg)
+![](../images/CommunityEngagement/mapce1.jpg)
+![](../images/CommunityEngagement/ideas.png)
+![](../images/CommunityEngagement/supplychain.png)
 
 1 https://design.cmu.edu/sites/default/files/Transition_Design_Monograph_final.pdf 
 2 https://donellameadows.org/dancing-with-systems/ 
