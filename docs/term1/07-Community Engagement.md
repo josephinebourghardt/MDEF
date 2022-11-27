@@ -53,11 +53,13 @@ We had already done an intervention within the group cooking with the food waste
 To continue this intervention we have been looking for local creative communities within the area of Raval, a diverse and multicultural neighbourhood in Cuitat Vella, where some of us also live. A couple different opportunities arised with people in our surroundings that were also interested in the subject, including creating an art dinner with food waste, collecting food waste from a restaurant to experiment with biomaterials and the community garden Agora Juan Andres, where we will also be attending a community dinner that is arranged by the organisation Create Food not Bombs.  
 
 During this community dinner we will be helping out during the event, but we also want to connect with the community and organisation and engage in possibilities of collaboration. We will also be observing and understanding the area and connections within it. 
-*”We are all actors: being a citizen is not living in society, it is changing it.”* 
-- Augusto Boal
+
 ![](../images/CommunityEngagement/mapce1.jpg)
 ![](../images/CommunityEngagement/ideas.png)
 ![](../images/CommunityEngagement/supplychain.png)
+
+*”We are all actors: being a citizen is not living in society, it is changing it.”* 
+- Augusto Boal
 
 1 https://design.cmu.edu/sites/default/files/Transition_Design_Monograph_final.pdf 
 2 https://donellameadows.org/dancing-with-systems/ 
