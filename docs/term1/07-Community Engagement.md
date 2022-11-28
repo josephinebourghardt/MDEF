@@ -18,18 +18,14 @@ Transition designers view everyday life as a potentially powerful, transformativ
 So how do we engage with the system and communities? To understand wicked problems and how to work with systems change we have worked with different tools like enabling actions to map actors and resources, analysing local contexts, identifying potential synergies and opportunities, and amplifying key benefits for local stakeholders.
 
 <p align="center">
-*“Systems thinking leads  to another conclusion, however-waiting, shining, obvious as soon as we stop being blinded by the illusion of control. It says that there is plenty to do, of a different sort of ‘doing.’ The future can’t be predicted, but it can be envisioned and brought lovingly into being. Systems can’t be controlled, but they can be designed and redesigned. We can’t surge forward with certainty into a world of no surprises, but we can expect surprises and learn from them and even profit from them. We can’t impose our will upon a system. We can listen to what the system tells us, and discover how its properties and our values can work together to bring forth something much better than could ever be produced by our will alone. “We can’t control systems or figure them out. But we can dance with them!”*
-
-*“Before you disturb the system in any way, watch how it behaves. If it’s a piece of music or a whitewater rapid or a fluctuation in a commodity price, study its beat. If it’s a social system, watch it work. Learn its history.”*
+'Stop being blinded by the illusion of control, systems can’t be controlled, but they can be designed and redesigned.. We can expect surprises, learn from them and even profit from them. We can listen to what the system tells us, and discover how its properties and our values can work together to bring forth something much better than could ever be produced by our will alone. “We can’t control systems or figure them out. But we can dance with them!'  
 </p>
 
 An important part of working within systems and communities is to understand how they work and the value that is already there and to do that you have to become part of and work within it. Communicate and experiment ideas, and keep learning through trial and error.
 
-*”In a world of complex systems it i s not appropriate to charge forward with rigid, undeviating directives.”*  
-
 Understand the behaviour in the community and pay attention to triggering events and outside influences that change or bring forward specific behaviours. Can these be changed from the outside? While looking at this its important to remember to zoom in and out of parts while still looking to maximise the system as a whole. The aim should be to enhance total systems properties, such as creativity, stability, diversity, resilience, and sustainability.
 
-*“As you think about a system, spend part of your time from a vantage point that lets you see the whole system, not just the problem that may have drawn you to focus on the system to begin with. And realise that, especially in the short term, changes for the good of the whole may sometimes seem to be counter to the interests of a part of the system. It helps to remember that the parts of a system cannot survive without the whole. The long-term interests of your liver require the long-term health of your body, and the long-term interests of sawmills require the long-term health of forests.”* (2)
+*“Before you disturb the system in any way, watch how it behaves. If it’s a piece of music or a whitewater rapid or a fluctuation in a commodity price, study its beat. If it’s a social system, watch it work. Learn its history.”* (2)
 
 TOOLS · MAPPING
 
