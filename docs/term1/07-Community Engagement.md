@@ -25,7 +25,9 @@ An important part of working within systems and communities is to understand how
 
 Understand the behaviour in the community and pay attention to triggering events and outside influences that change or bring forward specific behaviours. Can these be changed from the outside? While looking at this its important to remember to zoom in and out of parts while still looking to maximise the system as a whole. The aim should be to enhance total systems properties, such as creativity, stability, diversity, resilience, and sustainability.
 
+<p align="center">
 *“Before you disturb the system in any way, watch how it behaves. If it’s a piece of music or a whitewater rapid or a fluctuation in a commodity price, study its beat. If it’s a social system, watch it work. Learn its history.”* (2)
+</p>
 
 TOOLS · MAPPING
 
@@ -55,9 +57,10 @@ During this community dinner we will be helping out during the event, but we als
 ![](../images/CommunityEngagement/ideas.png)
 ![](../images/CommunityEngagement/supplychain.png)
 
+<p align="center">
 *”We are all actors: being a citizen is not living in society, it is changing it.”* 
 - Augusto Boal
-
+</p>
 
 SOURCES
 1 https://design.cmu.edu/sites/default/files/Transition_Design_Monograph_final.pdf 
