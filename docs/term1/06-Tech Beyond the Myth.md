@@ -38,6 +38,8 @@ What is an almost useless machine? What can we do with the parts from the disass
 
 ![](../images/TechMyth/Tbtm.2.jpg)
 
+Forensics Report https://hackmd.io/@8sCwEDXZRLu279SP363xRQ/SkVrxUbHj 
+
 By using different electronic parts from the printer, we started playing around with their use and function. The printer had two types of motors - Stepper motors and DC Motors, and several different types of sensors - Switch and Light sensors. 
 
 ![](../images/TechMyth/Tbtm.6.jpg)
@@ -52,6 +54,5 @@ Can anything actually be useless or is there always a way to create value if we 
 
 
 https://docs.google.com/presentation/d/18by7NvocWw5UwcJ9cJGmSISv-FKvB2dR-m_RdzmnwxE/edit?usp=sharing 
-Forensics Report
-https://hackmd.io/@8sCwEDXZRLu279SP363xRQ/SkVrxUbHj
+
 
