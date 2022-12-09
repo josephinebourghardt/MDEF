@@ -52,4 +52,6 @@ Can anything actually be useless or is there always a way to create value if we 
 
 
 https://docs.google.com/presentation/d/18by7NvocWw5UwcJ9cJGmSISv-FKvB2dR-m_RdzmnwxE/edit?usp=sharing 
+Forensics Report
+https://hackmd.io/@8sCwEDXZRLu279SP363xRQ/SkVrxUbHj
 
