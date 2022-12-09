@@ -51,3 +51,5 @@ It became a rhythm machine, or a knocking machine, or just an almost useless mac
 Can anything actually be useless or is there always a way to create value if we choose to? How can we use these electronics that were doomed useless and ready to be thrown away in other ways?
 
 
+https://docs.google.com/presentation/d/18by7NvocWw5UwcJ9cJGmSISv-FKvB2dR-m_RdzmnwxE/edit?usp=sharing 
+
