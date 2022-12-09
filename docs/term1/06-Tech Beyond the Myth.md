@@ -55,4 +55,4 @@ Can anything actually be useless or is there always a way to create value if we 
 
 https://docs.google.com/presentation/d/18by7NvocWw5UwcJ9cJGmSISv-FKvB2dR-m_RdzmnwxE/edit?usp=sharing 
 
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTVy8sv3d9oTM14bMLpsKpcohHn6BwBfrznbxD4ZUV18_PeU7aVOu3k29D9Qf3NHLCfduJBUqmn1X-x/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
