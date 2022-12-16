@@ -50,6 +50,8 @@ The DC Motor was programmed with Arduino to have different speeds and change dir
 
 It became a rhythm machine, or a knocking machine, or just an almost useless machine. It can be a prank you place on someones door, that knocks aggressively until the door is opened, just to restart as it is closed again. Can that help people leave the house to go outside and enjoy nature, or is it a way to open doors and invite people  to be more social, removing boundaries? Or can it be seen as all the information that is constantly being thrown at us through media, telling us what to do, who to be, how to be it, not stopping until we actively choose to remove ourselves from society?
 
+https://youtu.be/vhfmyTzN714
+
 Can anything actually be useless or is there always a way to create value if we choose to? How can we use these electronics that were doomed useless and ready to be thrown away in other ways?
 
 https://drive.google.com/file/d/1XLQnBHTC2d17FNC0QkpDw-hW02HmV_Sx/view?usp=sharing 
