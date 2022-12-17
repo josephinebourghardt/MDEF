@@ -5,22 +5,18 @@ hide:
 
 # **INTERVENTIONS**
 
-Throughout the term I have been working in a group together with four others about Hacking Supply Chains. It all started where we found that we had similar interests and started working togethere to find out more about this subject. During this term the channel has been food waste. Over 30% of food is lost or wasted each year. A striking number, given the large amount of hungry people in the world. Wasted food is not only inefficient, it’s a social justice issue.
+Throughout the first term I've been working with four others in a group focusing on Hacking Supply Chains. It all started with these similar interests intersecting in the subject of food waste which became a channel in this term to work with supply chain.
 
-Food is at the centre of people’s needs linking everything and everyone. 
+Food is at the centre of people’s needs linking everything and everyone. Food is fuel, it is energy, it shapes our identity, food connects people, food can bring comfort, confer status, and heal. We will always need food and it will therfor always be relevant. 
 
-Food is fuel, it is energy, it shapes our identity, food connects people, food can bring comfort, confer status, and heal. We will always need food and it will therfor always be relevant. 
+The subject of food is increasingly urgent across the globe. Food production contributes to more than 25% of global emissions. Each year around 70% of fresh water is used by agriculture, exhausting and contaminating water sources because of inefficient and excessive use. 42% food is wasted every year only by consumers. 
 
-The subject of food is increasingly urgent across the globe. Food production contributes to more than 25% of global emissions. Each year around 70% of fresh water is used by agriculture, exhausting and contaminating water sources because of inefficient and excessive use. 42% food is wasted every year only by consumers.
-
-In a time of exploition, overconsumption, declines in insect populations, animal welfare, obesity etc we are working with the subject of food, food production, perceptions of food, and consumption. 
-
-How can we change the perception we have of food and waste? How can we visualise and show the possibilities of the resources that it actually is?
+In a time of exploition, overconsumption, declines in insect populations, animal welfare, obesity and hunger we are worked with the subject of food, food production, perceptions of food, and consumption. Investigating how to change perceptions of food and waste, how to visualise and show the possibilities of waste being resources. We started this by investigating ourselves and licing with the idea of food waste. 
 ![](../images/Interventions/uploads4.jpg)
 
 // An experience to understand your direction through embodied action
 
-Cooking with food waste intervention within group
+Cooking with food waste
 Within a group of classmates interested in waste streams we have been exploring the topic of food waste. We organised a dinner together, where we saved foodwaste for 3 days which we then used to cook a dinner with together. It was a great experience where we learned new ways of using all parts of vegetables and rest products in other ways, things we would’ve otherwise have thrown away. 
 
 ![](../images/Interventions/uploads3.jpg)
