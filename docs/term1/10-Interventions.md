@@ -16,29 +16,15 @@ The subject of food is increasingly urgent across the globe. Food production con
 In a time of exploition, overconsumption, declines in insect populations, animal welfare, obesity etc we are working with the subject of food, food production, perceptions of food, and consumption. 
 
 How can we change the perception we have of food and waste? How can we visualise and show the possibilities of the resources that it actually is?
-
-What are the wastestreams in the food supply chain and where can we interact
-
-Ways to improve food production is by reducing food waste, where reducing the amount of food waste reduces the amount of food that needs to be produced. 
-
-39% · Production streams 
-farmers, cultivators, factories, product packagers and trade intermediaries. 
-crop losses, overproduction or odd sizes and looks are just a few examples. This means that these products don’t even make it to the supermarkets and food service industries.  
-
-14% · Restaurants of foodwaste
-overly large portions, strict food safety demands, inadequate stock acquisition or a lack of creativity to make use of decent products 
-
-42% · Consumers 
-too much food is bought, too much food is prepared in households, storing it incorrectly and wrong interpretation on expiry dates.
+![](../images/Interventions/uploads4.jpg)
 
 // An experience to understand your direction through embodied action
 
 Cooking with food waste intervention within group
 Within a group of classmates interested in waste streams we have been exploring the topic of food waste. We organised a dinner together, where we saved foodwaste for 3 days which we then used to cook a dinner with together. It was a great experience where we learned new ways of using all parts of vegetables and rest products in other ways, things we would’ve otherwise have thrown away. 
 
-![](../images/Interventions/poster.jpg)
-![](../images/Interventions/cook1.jpg)
-![](../images/Interventions/cook2.jpg)
+![](../images/Interventions/uploads3.jpg)
+![](../images/Interventions/uploads5.jpg)
 
 // An experience to understand your direction through embodied action // An experience to learn with and from others // An action to build trust
 
@@ -46,13 +32,15 @@ FOOD NOT BOMBS
 
 28.11.22
 AGORA Juan Andres Benitez · Food Not Bombs Dinner
-
+![](../images/Interventions/uploads6.jpg)
 They pick up vegetables and food at Veritas that would otherwise be thrown away. Food Not Bombs can pick up food on Fridays & Mondays. The other days other NGOs pick up the food waste.
 // Are there other shops that we can connect FNB with? Or other shops that are not giving food away, that we can connect with other organisations so that all shops give away the food?
 
-There were 5(?) people working for FnB when we were there, they go to Agora Communal Garden and cook food with the vegetables they’ve picked up that they then serve for free.
+There were 5 people working for FnB when we were there, they go to Agora Communal Garden and cook food with the vegetables they’ve picked up that they then serve for free.
 
-The people that were in the community garden were mostly people that live in the neighbourhood and use the garden regularly. FnB wants to serve food to homeless, but food is not a very big problem for homeless in Bcn, its mostly shelter and care, and they will accept the food if its given to them but they don’t come to the community garden. They also have the problem of not having containers to give away the rest of the food in
+The people that were in the community garden were mostly people that live in the neighbourhood and use the garden regularly. FnB wants to serve food to homeless, but food is not a very big problem for homeless in Bcn, its mostly shelter and care, and they will accept the food if its given to them but they don’t come to the community garden. They also have the problem of not having containers to give away the rest of the food in.
+
+![](../images/Interventions/uploads7.jpg)
 
 // Can the community in the garden be a part of producing doggybags? they can bring the food home, or bring it to people in the neighbourhood that they know need it?
 
@@ -69,6 +57,7 @@ The people that were in the community garden were mostly people that live in the
 BIO MATERIALS
 
 ‘Materials on their own are not regenerative as such, but the way that we work with them and methods that we use can be regenerative.’ - Elsa Dagný Ásgeirsdóttir, Lead Creative Producer, SPACE10
+![](../images/Interventions/uploads11.jpg)
 
 By using the language of materials for social and environmental reparation, we explore how different approaches to sustainable, circular, and regenerative design could redefine our relationships with materials, the land, and each other. 
 
