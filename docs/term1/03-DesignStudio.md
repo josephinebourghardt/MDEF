@@ -31,4 +31,12 @@ During this year I’m looking to work more with prototyping as a vehicle for in
 
 DESIGN SPACE
 
+Below I have mapped what infrastructures and people are available for projects in a workspace. 
+
 ![](../images/Studio/rtdspace.jpg)
+
+COMMUNICATION STRATEGIES
+
+To communicate projects and thoughts I will be working a lot with photographing and filming experiments, workshops and interactions. Furthermore infographics, visual elements to interact with and artefacts will be a big part of communicating information. 
+
+![](../images/Studio/Communicationplan2.jpg)
