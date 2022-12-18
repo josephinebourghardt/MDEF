@@ -15,11 +15,10 @@ In a time of exploition, overconsumption, declines in insect populations, animal
 ![](../images/Interventions/uploads4.jpg)
 
 // An experience to understand your direction through embodied action
-
+![](../images/Interventions/uploads3.jpg)
 Cooking with food waste
 Within a group of classmates interested in waste streams we have been exploring the topic of food waste. We organised a dinner together, where we saved foodwaste for 3 days which we then used to cook a dinner with together. It was a great experience where we learned new ways of using all parts of vegetables and rest products in other ways, things we would’ve otherwise have thrown away. 
 
-![](../images/Interventions/uploads3.jpg)
 ![](../images/Interventions/uploads5.jpg)
 
 // An experience to understand your direction through embodied action // An experience to learn with and from others // An action to build trust
