@@ -73,3 +73,6 @@ These different waste streams have been collected to investigate and explore wha
 From the interactions with the restuarant El Doble where waste has been collected to experiment with Bio Materials, we started discussing how to communicate the topic of food waste, how it can be reduced and how it can be used. This led to a collaboration with the restaurant where we had an event bringing up the topic through communicative and interactive posters and the resturant serving a special dish on the menu made only from the vegetable scraps that they would otherwise through away. 
 
 The evening showed that many people were interested in the topic of waste, discussing the meaning of the word waste and how people perceive it became a great way to interact and learn from eachother. The dish that the restaurant made was beautifully served and presented helping to add value to what would otherwise be disgarded. 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4GvadeXuzXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
