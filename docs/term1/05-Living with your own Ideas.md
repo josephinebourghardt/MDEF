@@ -52,6 +52,8 @@ Although I usually work in this way, using myself as a tool, living with the ide
 
 In a second intervention I wanted to investigate water and consumption. Fresh water as a resource can for many, including myself, be taken for granted as unlimited and a s easy as opening a faucet to access. When moving to Barcelona this was questioned with the simple situation of drinking water that’s ‘drinkable’, but tasting very bad. Leading to the feeling of scarcity when water bottles are being emptied and the need to carry new ones up the stairs arise. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sfi6au05VPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Water is essential to all living things and access to fresh water should be a global right, yet in many parts of the world this is not the case where many people and living things are without access to freshwater. It made me wonder how much water I use daily and where this water comes from and how it’s handled. 
 
 ![](../images/LivingwithIdeas/film1.png)
