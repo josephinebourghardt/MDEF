@@ -37,6 +37,23 @@ Below I have mapped what infrastructures and people are available for projects i
 
 COMMUNICATION STRATEGIES
 
-To communicate projects and thoughts I will be working a lot with photographing and filming experiments, workshops and interactions. Furthermore infographics, visual elements to interact with and artefacts will be a big part of communicating information. 
-
+The communication mediums chosen to communicate before, within and after interventions have been infographics, drawings and visualisations to make it easy to understand the topics presented, photographing, video journaling and workshops or gatherings to get input and output. 
 ![](../images/Studio/Communicationplan2.jpg)
+The chosen communication strategies are:
+
+· Sharing participants’ observations, reflections and experiences during and after our   interventions
+· Leave a trace of your project/contact in physical space when it is closely related to a specific area or context
+· Call for collaboration for partners or participants
+· Striving for continuity, creating a community. 
+· Understand your audience
+· Offering visibility to others (human or non-human), serve as a bridge, showcase the work of others – can serve as state of the art research process too
+· Simple language for accessibility 
+· Being transparent about your intentions, offering a space where people you are trying to reach and connect can understand better your background, your values, your commitment, your motives, your positionality – creating a foundation for trust
+· Take quality photos all the time even if you don’t know what they will be for. 
+· Experiment with new formats
+· Showing long term commitment 
+· Becoming open and transparent about your making/production processes and materials resourcing
+· Compiling material samples and production samples (a catalog or object that can serve as a demo of your research)
+· Creating demos, demonstrators, or experiential prototypes. 
+
+For most of the interventions we have used communication strategies to understand our audience, where we have worked together with different target groups to get a better understanding of the subject. The process of choosing these stragegies has been fluid as the interventions and situations we have worked with have somewhat emerged fluidly in the process. We have recorded observations, reflections and experiences and created demos and prototypes for better understanding of the subject, together with a catalog of recipes and tips. We have been working together with communities where creating trust has been a big part of the collaboration and will continue to do so further on. Together we aim to make complex situations become more clear. 
