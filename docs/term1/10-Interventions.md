@@ -77,6 +77,20 @@ From the interactions with the restuarant El Doble where waste has been collecte
 
 The evening showed that many people were interested in the topic of waste, discussing the meaning of the word waste and how people perceive it became a great way to interact and learn from eachother. The dish that the restaurant made was beautifully served and presented helping to add value to what would otherwise be disgarded. 
 
+![](../images/Interventions/uploads10.jpg)
+
+Can technology help us see possibilities where we see waste? Can AI be used as a tool to see waste from new perspectives?
+
+During the course Extended Intelligences we used the AI model YOLO9000 from Studio Estampa. It is a trained object recognition neuronal network with a dataset of 9,418 words and millions of images. It is one of the many artificial vision tools being developed, designed for automatic image annotation. that analyses contents in photos and labels them (tallerestampa.com, n.d). We used this model to anlayze photos of waste and vegetable scraps - things that are usually disgarded as waste. 
+
+In the photos the AI model did not mention waste, trash or scraps for anything. It accuratly labeled many of the objects in the photos, although some were comic responses. This was very interesting as we as humans are many times quick to judge things as waste.
+
+![](../images/Interventions/uploads12.jpg)
+
+We wanted to investigate what people saw in the photos and compare it to what the AI model saw. We did this at the event about food waste at the restaurant El Doble and at Design Dialogues. Many people described what they saw and the posters sparked discussions and reflections on waste reduction. It’s interesting to consider whether people’s responses were influenced by the theme of the project or if they genuinely saw more possibilities in the photos beyond their initial appearances as waste. In any case, any type of positive reflection or thought that promotes waste reduction is a positive outcome. 
+
+We also used the openai ChatGPT to ask questions about waste and resources. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4GvadeXuzXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 BIO DESIGN DINNERS
@@ -87,3 +101,5 @@ A dinner where the tableware and food courses are made of the same ingredients w
 Foodwaste, Biomaterials, Biodesign. These are all subjects that might feel inaccesible or heavy to most. With such an experience we hope to tackle these subjetcs in a playful, embodied way so participants leave the dinner with a tangible sense of what’s possible with these subjects, and inspired to create themselves.
 
 We displayed this project during Design Dialogues to get feedback of the concept and objects that we’ve reached so far. We received lots of positive feedback and tips on how we could continue the work. 
+
+![](../images/Interventions/uploads12.jpg)
