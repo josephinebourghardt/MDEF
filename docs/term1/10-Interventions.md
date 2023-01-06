@@ -74,10 +74,11 @@ FOOD WASTE EVENT · EL DOBLE
 Claudia Bertlotti  // Josephine Bourghardt // June Bascaran // Sami Piercy // Seher Krishna
 
 From the interactions with the restuarant El Doble where waste has been collected to experiment with Bio Materials, we started discussing how to communicate the topic of food waste, how it can be reduced and how it can be used. This led to a collaboration with the restaurant where we had an event bringing up the topic through communicative and interactive posters and the resturant serving a special dish on the menu made only from the vegetable scraps that they would otherwise through away. 
-
-The evening showed that many people were interested in the topic of waste, discussing the meaning of the word waste and how people perceive it became a great way to interact and learn from eachother. The dish that the restaurant made was beautifully served and presented helping to add value to what would otherwise be disgarded. 
-
+![](../images/Interventions/upload15.jpg)
 ![](../images/Interventions/uploads10.jpg)
+The evening showed that many people were interested in the topic of waste, discussing the meaning of the word waste and how people perceive it became a great way to interact and learn from eachother. The dish that the restaurant made was beautifully served and presented helping to add value to what would otherwise be disgarded. 
+![](../images/Interventions/upload14.jpg)
+
 
 Can technology help us see possibilities where we see waste? Can AI be used as a tool to see waste from new perspectives?
 
@@ -102,4 +103,29 @@ Foodwaste, Biomaterials, Biodesign. These are all subjects that might feel inacc
 
 We displayed this project during Design Dialogues to get feedback of the concept and objects that we’ve reached so far. We received lots of positive feedback and tips on how we could continue the work. 
 
-![](../images/Interventions/uploads12.jpg)
+![](../images/Interventions/upload13.jpg)
+
+DESIGN DIALOGUES
+
+ODDS & ENDS
+noun [ plural ]   informal
+UK  /ˌ  odz ənd ˈendz/ US  /ˌo:dz ənd ˈendz/
+(UK also odds and sods)
+ 
+C2
+various things of different types, usually small and not important, or of little value
+
+noun [ plural ]
+in British English
+miscellaneous items or articles 
+in American English
+scraps; remnants; oddments
+
+noun 
+a motley assortment of things
+
+Through exhibiting the processes we’ve been working with at Design Dialogues we had the opportunity to communicate what we’ve been working on the last weeks of the first term of MDEF. Through discussions with visitors we got helpful feedback, resources and contacts to further develope the project. The name Odds & Ends describes the process and work we did working with different things that would usually be seen as little value.
+
+![](../images/Interventions/upload17.jpg)
+![](../images/Interventions/upload18.jpg)
+
