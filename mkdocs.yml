@@ -28,8 +28,7 @@ nav:
           
 
       - Term 2:
-          - digi: term2/01-Studio II.md
-          - studio: term2/01-Studio II.md
+          - Studio: term2/01-Studio II.md
           - Designing for the Next Billion Seconds: term2/02-Designing for the Next Billion Seconds.md
 
 
