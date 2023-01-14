@@ -17,11 +17,11 @@ The first week of the second term we had the course Designing for the Next Billi
 
 We used exercises as the ‘A day in My Post- Technological Life (2050)’ to explore different futures. A tool to imagine how a day in your life could look like in an imaginative future of how you would like the world to be. It was a great way to brainstorm and get into a creative flow. For me it helped to answer the questions rapidly without too much time to think, and then afterwards reflecting on how this imaginative future could be realised and what difficulties could arise on the way there. By doing it quickly a couple of times, different scenarios arose that could then be combined and imagined in different times and places in the world. 
 
-![](../images/AoWS/designspace.png)
+![](../images/BillionSeconds/posttechlife.png)
 
 Another exercise was to write a handwritten first draft of a letter sent by your future-self, in the 2050s. For me this was also a good way to get into a creative flow and letting the imagination flow. Something I will use to ‘brainstorm’ and get started in opening up thoughts. 
 
-![](../images/AoWS/designspace.png)
+![](../images/BillionSeconds/letter.jpg)
 
 The everything manifesto and during the course language, words and the way things are communicated were topics that were very interesting. We spoke about that there is no singular future but plural futures, something that I will adapt in my communication. There is no one solution for all, therefor there is no one ultimate future, but multiple futures that coexist and interrelate. This also involves the word design, as there is no ultimate solution to the complex emergency the world is facing, but there is ongoing designing of multiple futures, where designing and rapidly testing along the way is an ongoing and not ending practice. We also spoke about how the using the word climate change is to neglect what is actually happening in the world where IAM studio proposes to call it an environmental emergency where climate change is one of the symptoms. Using the term climate change can be a dangerous act of neglecting the actual cause, increasing the damage of what is already happening. How we communicate and what words we use can help change mindsets and understandings. Can using the terminology of the next billion seconds help people relate to time in a different way instead of saying 31,7 years? Where ‘years’ become too far away to relate to?
 
