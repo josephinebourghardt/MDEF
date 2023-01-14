@@ -11,6 +11,8 @@ During the second term I want to keep volunteering and working with Food not Bom
 
 Alongside the extended work with waste and the channel food waste, I want to work with the subject of water. I started to understand during the first term that the subjects of food, water and energy are core subjects of interest. I am at the moment exploring different ways to approach this broad subject, but seek to again be open minded about areas of intervention where a fluid process can lead to unexpected opportunities. 
 
+My design space is similar to the one in the first term, the core being regenerative deisgn.
+
 Starting the term I am exploring different perspectives and systems of water. The 24th of January I will together with some others interested in water, be going to the Waste Water Management in Barcelona to visit the centre and see how the city works with this. In December I visited a wastewater management outside of Gothenburg Sweden. This can be a great opportunity to look at similarities and differences between countries that have opposite relationships to water, where Gothenburg aims to become the best rain city and Spain and Barcelona are in long periods of drought. 
 
 I’ll also be investigating how others works with water, where I have contacts working within The Ocean Race, where I’ll be visiting the event to speak with departments working with sustainability and water, as well as how the municipality of Alicante works with the subject during the event. 
