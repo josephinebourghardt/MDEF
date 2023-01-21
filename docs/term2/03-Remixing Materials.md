@@ -14,6 +14,7 @@ We were introduced to different methods of analysing and visualising use and lif
 During the first term we mostly explored different recipes and possibilities, where during this term and this course I want to evolve this work and explore the different manufacturing processes we’ve been introduced to such as 3D printing, moulding, casting and milling with Bio Materials. With the course I also want to explore and learn more about how to express different applications of materials, and how to create communicative and relatable narratives and mediums of expression. 
 
 MATERIAL NARRATIVE EXCERCISE
+![](../images/RemixingMaterials/letter.jpg)
 
 
 GROWING MATERIALS with S Biótica
@@ -25,3 +26,5 @@ An interesting topic is how we live in an ever changing world but still have the
 It was also interesting to talk about how working with other living organisms is a collaboration between a designer and other living things. You can tell it what to do, but that doesn’t mean that it will do it. An aspect that can be hard to grasp within traditional design thinking where human needs are at the centre of solutions and humans have controlled the outcomes. Letting go of control as a designer and letting others be a part of deciding the process is what can lead to innovation solutions, as seen in many topics of collaborations between disciplines, so collaborating with other living organisms should be a natural part of this process as well. 
 
 To understand this collaboration hands-on we worked with mycelium, learning about the specific properties, feeding, temperature and processes for it to grow in molds that we brought.  
+
+![](../images/BillionSeconds/letter.jpg)
