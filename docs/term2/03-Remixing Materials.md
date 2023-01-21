@@ -11,11 +11,15 @@ Continuing into the second week of Term II we dove deeper into the principles of
 
 We were introduced to different methods of analysing and visualising use and life cycles and how and where we could project thoughts into our surroundings. We looked at lifecycles and processes of extraction & processing, manufacturing/crafting, (casting, molding, shaping, joining, surfacing, additive), manufacturing (printing, extruding), subtractive, manufacturing (milling, drilling), blowing, melting, pressing, cooking, cutting, drying, sculpting, carving, grinding, mixing, sanding, etc., consumption/use and end of the life and disposal.
 
+![](../images/RemixingMaterials/1excercise2.jpg)
+
 During the first term we mostly explored different recipes and possibilities, where during this term and this course I want to evolve this work and explore the different manufacturing processes we’ve been introduced to such as 3D printing, moulding, casting and milling with Bio Materials. With the course I also want to explore and learn more about how to express different applications of materials, and how to create communicative and relatable narratives and mediums of expression. 
 
 MATERIAL NARRATIVE EXCERCISE
-![](../images/RemixingMaterials/letter.jpg)
-
+![](../images/RemixingMaterials/1excercise2.jpg)
+![](../images/RemixingMaterials/1excercise3.jpg)
+![](../images/RemixingMaterials/1excercise4.jpg)
+![](../images/RemixingMaterials/1excercise5.jpg)
 
 GROWING MATERIALS with S Biótica
 
