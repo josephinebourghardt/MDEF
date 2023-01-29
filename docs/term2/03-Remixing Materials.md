@@ -32,3 +32,17 @@ It was also interesting to talk about how working with other living organisms is
 To understand this collaboration hands-on we worked with mycelium, learning about the specific properties, feeding, temperature and processes for it to grow in molds that we brought.  
 
 ![](../images/RemixingMaterials/process1.jpg)
+
+3D PRINTING WITH BIO MATERIAL PASTE
+
+During the second week we were introduced to the 3D printers that FabLab have been working on to self fabricate and 3D print with paste such as clay and Bio Materials. We worked hands on printing with both materials to understand how clay and bio materials react and behave when printed. I have 3D printed before using plastics and explored 3D printing with clay, but to use Bio Materials was a new experience, one that is very interesting in the projects that I worked on together with my group during the first term, as well as the continuation of them in the second term. By 3D printing waste can be reduced within the manufacturing process and create possibilities of closed loop material systems where waste can become new materials, composted or reused. There are also interesting projects where living cells are incorporated into 3D printed materials creating functional and biological active structures.
+
+![](../images/RemixingMaterials/3dprint.jpg)
+
+MOLD // CASTING
+
+We were also introduced to moulding and casting and the techniques that can be used, understanding material properties and what moulds could be sufficient and work well with different Bio Materials. I am together with a couple of others working on a project exploring BioMaterials and how the form of tableware and objects in a dining experience affect the experience of eating. Exploring form, texture, biomaterials, perceptions and senses in the relationship we have with food, waste, eating and cooking. We experimented with casting pine resin and food waste. We used simple moulds, in silicone as well as everyday objects, and clay moulds. Due to the mixture of pine resin and the amount of additives, where we explored coffee grounds and orange peels, we had difficulties filling out the moulds and removing the cast. 3D printing can be an alternative here, as well as casting in soft silicone moulds where the material can be removed more easily.
+
+These techniques are also interesting in experimenting with printing clay to create a modular system of water collecting pots where individuals can collect grey water to reuse as well as experiment with growing directly in or on the pot. 
+
+![](../images/RemixingMaterials/3dprint2.jpg)
