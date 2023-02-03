@@ -3,46 +3,151 @@ hide:
     - toc
 ---
 
-# **REMIXING MATERIALS**
+# **PROTOTYPING FOR DESIGN**
+This section will be part of a weekly journal where I’ll be documenting what we are doing during the course Prototyping for Design. Parts of it will be very simple documentation of the process for future use and understanding
 
-18.01.23 - 20.01.23
+PROTOTYPING TOGETHER 
+01.02.23
 
-Continuing into the second week of Term II we dove deeper into the principles of Bio Materials, with new techniques of creation, manipulation, understanding possibilities of use and communication strategies. With collected waste from around the city we prototyped with different recipes to understand qualities and properties of different techniques and combinations. During the first semester I, together with a group of four others, explored Bio Materials and waste, specifically food waste, which made this course an engaging continuation of the explorations we had started, specifically learning more about processes and methods that can be used when collecting, processing, manipulating and manufacturing. 
+Starting off the course we were reintroduced to electronics and Arduino receiving homework to create music with an ESP32 and a buzzer. Since I haven’t worked with it before the one week course during the first term I will be documenting this step by step for remembering how to get started in the future.
 
-We were introduced to different methods of analysing and visualising use and life cycles and how and where we could project thoughts into our surroundings. We looked at lifecycles and processes of extraction & processing, manufacturing/crafting, (casting, molding, shaping, joining, surfacing, additive), manufacturing (printing, extruding), subtractive, manufacturing (milling, drilling), blowing, melting, pressing, cooking, cutting, drying, sculpting, carving, grinding, mixing, sanding, etc., consumption/use and end of the life and disposal.
+Creating music with Arduino and buzzers 
+We used a ESP32 microcontroller, a Piezo buzzer that is an electronic component that can make sounds, beeps or play music, a bread board and connection wires and pins which are then connected through Arduino IDE and code to make sounds.
 
-![](../images/RemixingMaterials/process2.jpg)
+There are lots of tutorials that show how to do this exercise where I followed this one for setting up the microcontroller, breadboard and buzzer. For the code I used an already existing one where I practiced creating a loop instead of the music stopping and tried different melodies. 
 
-During the first term we mostly explored different recipes and possibilities, where during this term and this course I want to evolve this work and explore the different manufacturing processes we’ve been introduced to such as 3D printing, moulding, casting and milling with Bio Materials. With the course I also want to explore and learn more about how to express different applications of materials, and how to create communicative and relatable narratives and mediums of expression. 
+For me, this exercise was a good refresh in what we did in the first term, allowing me to in a simple exercise practice restarting Arduino IDE, where we hade to reinstall a new version, but most of all it was a good way to learn how to search for information about how to get started with projects and what to search for to find relevant information. 
 
-MATERIAL NARRATIVE EXCERCISE
-![](../images/RemixingMaterials/1excercise2.jpg)
-![](../images/RemixingMaterials/1excercise3.jpg)
-![](../images/RemixingMaterials/1excercise4.jpg)
-![](../images/RemixingMaterials/1excercise5.jpg)
+![](../images/Prototyping/arduinomusic.jpg)
 
-GROWING MATERIALS with S Biótica
+02.02.23
+DIGITALIZING REALITIES 
 
-We visited S Biotic and their studio where we were introduced to their practice and how the use and learn from growing living materials. We spoke about how materials can be living and transforming as we do with their own communication and narratives, rhythms and cycles. We are living in a time where we as consumers are detached from the materials around us. How can taking a step back to reflect and analyse on how materials make you feel, think, connect and collaborate with non human life, organic and living materials create a regenerative connection to the world and our surroundings? 
+Today we had a presentation about digital tools for 2D, 3D, parametric and generative deisgn. We started off by communally adding programs we have worked with in the past to a Miroboard. I have used 2D and 3D programs for modelling before such as Illustrator, Rhino, Solidworks, Grasshopper, Sketchup to create 3D and 2D models and files for digital manufacturing, where I now saw so many interesting programs and other ways of working. Although I have worked in 2D and 3D to create models and files for digital fabrication there were many terms and things I was not aware about or not complete sure of why I used, I had just learnt that that’s how you do it. 
 
-An interesting topic is how we live in an ever changing world but still have the perception that the things that we make and the materials we produce need to hold for a very long time. What if we were to instead mimic the aspect of the living, using the life cycle in design processes and other directions and question what is it to be and think with care when designing with the living around us. Should materials and products really hold for hundreds of years, or could the lifespan of a material be only of what it is to be used for and later deteriorate and return to nature with the nutrients needed. 
+List 
 
-It was also interesting to talk about how working with other living organisms is a collaboration between a designer and other living things. You can tell it what to do, but that doesn’t mean that it will do it. An aspect that can be hard to grasp within traditional design thinking where human needs are at the centre of solutions and humans have controlled the outcomes. Letting go of control as a designer and letting others be a part of deciding the process is what can lead to innovation solutions, as seen in many topics of collaborations between disciplines, so collaborating with other living organisms should be a natural part of this process as well. 
+Computer Aided Design (CAD)
+Computer Aided Manufacturing (CAM) 
 
-To understand this collaboration hands-on we worked with mycelium, learning about the specific properties, feeding, temperature and processes for it to grow in molds that we brought.  
+Building Information Modeling (BIM) is the foundation of digital transformation in the architecture, engineering, and construction (AEC) industry. A holistic process of creating and managing information for a built asset. Based on an intelligent model and enabled by a cloud platform, BIM integrates structured, multi-disciplinary data to produce a digital representation of an asset across its lifecycle, from planning and design to construction and operations.
 
-![](../images/RemixingMaterials/process1.jpg)
+Pixel: square in a x/y grid, smallest unit of bitmap images (called rester image or bitmap)average phone take millions of pixels in an image (GPU processed) Light data to store but heavy file. In Computer graphics, a pixel, dot, or picture element is a physical point in a picture. A pixel is simply the smallest addressable element of a picture represented on a screen. A majority of pictures that we see on our computer screen are raster images. The selfie that you click with your mobile phone is another example of a raster image. An image is made up using a collection of pixels referred to as a bitmap. Each pixel is made up of RGB sub pixels. It allows to store complex textures and gradients. It has multiple formats with a variety of compressions and processing requires less processor load. It needs a lot of RAM to store textures and uses a lot of memory. It loses quality when enlarged
 
-3D PRINTING WITH BIO MATERIAL PASTE
+Bitmap: In computer graphics, a bitmap is a mapping from some domain (for example, a range of integers) to bits, that is, values which are zero or one. It is also called a bit array or bitmap index. The more general term pixmap refers to a map of pixels, where each one may store more than two colors, thus using more than one bit per pixel. Often bitmap is used for this as well. In some contexts, the term bitmap implies one bit per pixel, while pixmap is used for images with multiple bits per pixel.
 
-During the second week we were introduced to the 3D printers that FabLab have been working on to self fabricate and 3D print with paste such as clay and Bio Materials. We worked hands on printing with both materials to understand how clay and bio materials react and behave when printed. I have 3D printed before using plastics and explored 3D printing with clay, but to use Bio Materials was a new experience, one that is very interesting in the projects that I worked on together with my group during the first term, as well as the continuation of them in the second term. By 3D printing waste can be reduced within the manufacturing process and create possibilities of closed loop material systems where waste can become new materials, composted or reused. There are also interesting projects where living cells are incorporated into 3D printed materials creating functional and biological active structures.
+Raster - Raster images use bit maps to store information. This means a large file needs a large bitmap. The larger the image, the more disk space the image file will take up. As an example, a 640 x 480 image requires information to be stored for 307,200 pixels, while a 3072 x 2048 image (from a 6.3 Megapixel digital camera) needs to store information for a whopping 6,291,456 pixels. We use algorithms that compress images to help reduce these file sizes. Image formats like jpeg and gif are common compressed image formats. Scaling down these images is easy but enlarging a bitmap makes it pixelated or simply blurred. Hence for images that need to scale to different sizes, we use vector graphics. 
+File extensions: .BMP, .TIF, .GIF, .JPG
 
-![](../images/RemixingMaterials/3dprint.jpg)
+Vector - The geometrical (mathematical) description of an image. It can be enlarged as many times as you want without losing quality and allows for easy editing and changes. It is also lighter than pixel format images. Making use of sequential commands or mathematical statements or programs which place lines or shapes in a 2-D or 3-D environment is referred to as Vector Graphics. Vector graphics are best for printing since it is composed of a series of mathematical curves. As a result vector graphics print crisply even when they are enlarged. In physics: A vector is something that has a magnitude and direction. In vector graphics, the file is created and saved as a sequence of vector statements. Rather than having a bit in the file for each bit of line drawing, we use commands which describe a series of points to be connected. As a result, a much smaller file is obtained. The cons with vector formats are that they don’t store texture and don’t allow complex gradients as in photography.
+File extensions: SVG, EPS, PDF, AI, DXF
 
-MOLD // CASTING
+Basics of a computer · 
+CPU · Vector. heavy mathematical equations · Constructed from millions of transistors, the CPU can have multiple processing cores and is commonly referred to as the brain of the computer. It is essential to all modern computing systems as it executes the commands and processes needed for your computer and operating system. The CPU is also important in determining how fast programs can run, from surfing the web to building spreadsheets.
+GPU · Graphic Processing Unit · Raster. The GPU is a processor that is made up of many smaller and more specialized cores. By working together, the cores deliver massive performance when a processing task can be divided up and processed across many cores.
 
-We were also introduced to moulding and casting and the techniques that can be used, understanding material properties and what moulds could be sufficient and work well with different Bio Materials. I am together with a couple of others working on a project exploring BioMaterials and how the form of tableware and objects in a dining experience affect the experience of eating. Exploring form, texture, biomaterials, perceptions and senses in the relationship we have with food, waste, eating and cooking. We experimented with casting pine resin and food waste. We used simple moulds, in silicone as well as everyday objects, and clay moulds. Due to the mixture of pine resin and the amount of additives, where we explored coffee grounds and orange peels, we had difficulties filling out the moulds and removing the cast. 3D printing can be an alternative here, as well as casting in soft silicone moulds where the material can be removed more easily.
+RGB stands for red, green and blue. RGB uses light to produce color: the more illuminated light involved, the lighter the image. RGB produces the widest range of color. RGB colors are typically used on computer monitors, digital cameras and televisions — any device that uses light to produce an image.
 
-These techniques are also interesting in experimenting with printing clay to create a modular system of water collecting pots where individuals can collect grey water to reuse as well as experiment with growing directly in or on the pot. 
+CMYK stands for cyan, magenta, yellow and black. This category of color uses the combination of ink pigments to produce color. The less ink used, the lighter the image; the more ink used, the darker the image. Printing projects typically use the CMYK color category.
 
-![](../images/RemixingMaterials/3dprint2.jpg)
+sRGB (storeRGB) Color utility, mainly used on internet, save as this when uploading. It has less cooler rendering and shouldn’t be used for printing.
+
+Resolution is the product of width and height of a digital image expressed in pixels. How many pixels and the density are measured in pixels per inch (PPI) and are what determine the quality of an image
+72 PPI used on the Internet
+300 PPI high resolution image
+320 PPI average of what a human eye can see
+600 PPI are used in professional printers
+Phone screens today have normally around 400-600 pixel, some 900.  can’t see the difference, marketing sales point
+
+FILE FORMATS
+JPEG file compressing, loses quality for every time its opened
+PNG compression less - heavier image, but doesn’t lose quality
+
+MESH // NURBS 
+NURBS model consists of points connected by curves. (freeform modeling, fluid shapes with a lot of complexity, at the same time being easy to modify.) Its a mathematical model used in computer graphics to generate curves and surfaces. It generates a precise geometry with smooth surfaces with geometries that are mathematically defined using control points that create complex curves to form surfaces around them. Used by many 3D scans and is ideal for CAD based programs as it is more accurate, takes less space and is easy to translate to different programs. 
+
+MESH, GPU - A collection of verticles, edges and faces as a structural construction of a 3D model consisting of triangles, quadrilateral or other polygons. 3D meshes use reference points of x,y, z axes to define shapes with width, height and depth. Object smoothness is achieved by increasing the number of polygons within a model, this also affects the filesize making it very heavy.  Not good for scaling as the polygons increase or decrease in size while scaling affecting the surface and form.  STL file for manufacturing where it uses xyz points. 3Dscanners always a mesh, points in space, triangles that create the visual surface. 
+
+Modelling and 3D printing is usually based on a NURBS model and then converted to a MESH model for manufacturing in CAM
+
+CAD surface models are usually created using NURBS surfaces, while 3D scans are typically exported as a polygon mesh. The conversion from a polygon mesh to a NURBS model is called “reverse engineering”. Worked by the CPU. 
+
+PARAMETRIC DESIGN a process based on algorithmic thinking that allows the expression of parameters and rules that together define, codify and clarify the relationship between design intent and design response. The term comes from mathematics and refers to the use of parameters or variables that allow the final result of an equation or system to be manipulated or altered. Its time saving, can create unique and exclusive designs, its adaptable to space conditions, contributes to greater architectural and manufacturing freedom where it goes hand in hand with digital fabrication without extra cost for same amount of effort to create different shapes, all shapes can be individual, high customisation. Traditional fabrication methods can’t realise the demand on this individualisation.
+
+TOPOLOGY OPTIMISATION · Using Algorithmic Models to Create Lightweight Design · Topology optimization (TO) is a shape optimization method that uses algorithmic models to optimize material layout within a user-defined space for a given set of loads, conditions, and constraints. TO maximizes the performance and efficiency of the design by removing redundant material from areas that do not need to carry significant loads to reduce weight or solve design challenges like reducing resonance or thermal stress. Designs produced with topology optimization often include free forms and intricate shapes that are complex or impossible to manufacture with traditional production methods. However, TO designs are a perfect match for additive manufacturing processes that have more forgiving design rules and can easily reproduce complex shapes without additional costs.
+
+GENERATIVE MODELLING Generative design is an iterative design exploration process that uses an AI-driven software program to generate a range of design solutions that meet a set of constraints. Unlike traditional design, where the process begins with a model based on an engineer’s knowledge, generative design begins with design parameters and uses AI to generate the model. By modifying the design parameters in an increasingly refined feedback loop, engineers can find highly optimized and customized design solutions to a wide range of engineering challenges, such as making product components lighter, stronger, and more cost-effective. 
+
+ TOPOLOGY OPTIMISATION VS GENERATIVE MODELLING The start of its process requires a human engineer to create a CAD model, applying loads and constraints with project parameters in mind. The software then removes redundant material and generates a single optimized mesh-model concept ready for an engineer’s evaluation. In other words, topology optimization requires a human-designed model from the outset to function, limiting the process, its outcomes, and its scale. 
+In a way, topology optimization serves as the foundation for generative design. Generative design takes the process a step further and eliminates the need for the initial human-designed model, taking on the role of the designer based on the predefined set of constraints.
+
+AGENT MODELLING · Computer simulations used to study the interaction between people, places and time. Built bottom up meaning 
+
+LIST OF RESOURCES FROM FABLAB PRESENTATION
+CAD - Resources¶
+Image compression tools
+Image compression for web size
+Image compression online tool
+
+2D Design Tools
+Online SVG vector drawing online (Free + Opensource Graphic Editor)
+Online Raster edition program
+Online Vector edition program
+Inkscape (Free + Opensource Graphic Editor)
+Inkscape Introduction
+Inkscape - Lecture
+Gimp (Free + Opensource Image Editor)
+Gimp and Bitmap Introduction - Lecture
+QCad (Free + Opensource for CAD in 2D)
+QCad Introduction - Lecture
+Vectr on browser - free graphic editor
+
+3D Design Tools
+3D CAD: 3D Modeling Tools for Beginners
+Blender (Opensource 3D creation)
+Blender Introduction - Lecture
+Blender Master Class 2017
+Freecad (Free + Opensource parametric 3D modeler)
+Freecad Introduction - Lecture
+Freecad for Beginners - Spanish!
+Rhinoceros 3D (Commercial 3D Cad software)
+Rhinoceros 3D - Nurbs
+
+Grasshopper- Rhinoceros Resources
+Grasshopper Master Class 2017
+File - Grasshopper Master Class
+SolidWorks (Commercial 3D Cad Software)
+Video tutorials for beginners, advanced, etc
+Lego tutorial by Ferdinand Meier
+Onshape
+OpenScad
+GENERATIVE WITH Fusion360
+
+3D SCULPTING
+https://www.womp.com
+
+EDIT FILE TOOL
+PIC SVG Image Conv, transform your images to sag vector files
+Tiny jpg - image compression
+Terrain STL 
+
+Repositories
+THINGIVERSE - 
+STL Finder
+
+http://flatfab.com
+
+Finite Element Analysis FEA
+Ameba plugin for grasshopper
+
+3D video capturing time 
+https://www.depthkit.tv
+
+BLENDER image ai generator
+
+https://www.simscale.com
+http://flowsquare.com
+https://jthatch.com/Terrain2STL/
+
+As an exercise we were to during the presentation represent what we thought could be the parametric variables of a croissant. We could draw it by hand, digitally or directly on MIRO. I drew it quickly without thinking too much, where it is built up of geometric shapes. 
+![](../images/Prototyping/parametricsketch.jpg)
