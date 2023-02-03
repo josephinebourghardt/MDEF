@@ -14,6 +14,7 @@ We were introduced to different methods of analysing and visualising use and lif
 ![](../images/RemixingMaterials/process2.jpg)
 
 During the first term we mostly explored different recipes and possibilities, where during this term and this course I want to evolve this work and explore the different manufacturing processes we’ve been introduced to such as 3D printing, moulding, casting and milling with Bio Materials. With the course I also want to explore and learn more about how to express different applications of materials, and how to create communicative and relatable narratives and mediums of expression. 
+![](../images/RemixingMaterials/shellac3.jpg)
 
 MATERIAL NARRATIVE EXCERCISE
 ![](../images/RemixingMaterials/1excercise2.jpg)
@@ -45,4 +46,6 @@ We were also introduced to moulding and casting and the techniques that can be u
 
 These techniques are also interesting in experimenting with printing clay to create a modular system of water collecting pots where individuals can collect grey water to reuse as well as experiment with growing directly in or on the pot. 
 
-![](../images/RemixingMaterials/3dprint2.jpg)
+![](../images/RemixingMaterials/shellac1.jpg)
+
+![](../images/RemixingMaterials/shellac2.jpg)
