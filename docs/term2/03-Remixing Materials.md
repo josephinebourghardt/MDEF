@@ -46,7 +46,11 @@ We were also introduced to moulding and casting and the techniques that can be u
 
 These techniques are also interesting in experimenting with printing clay to create a modular system of water collecting pots where individuals can collect grey water to reuse as well as experiment with growing directly in or on the pot. 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEK-Wj4RHf5l3vqxigyaCjnflT23GnIZ6B1ugXmonSLfkAWz6iUlFEbV-7d79aj0570C-cCr-3WtRQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-![](../images/RemixingMaterials/shellac1.jpg)
+MATERIAL NARRATIVES
 
+Throughout the two weeks I was working together with Claudia and Cagsun exploring the techninques we learned and investigating the materal propoerties and use of the Shellac as an alternative to silcone. As part of a project working with water we wanted to investigate a bio material that can seal or act with water restistant properties. We experimented with different Shellac recipes and applications to learn how it reacts with different materials and how it could be applied to the grey water collection module system we are working on this term. It has sealing propoerties and could be a good alternative to using silicone. It can be reheated and reworked and could be used to seal modular pieces. We will further be experimenting with using it as a varnish on unfired clay to investigate if a clay form could be water resistant, while still holding moist to also hold plants. 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEK-Wj4RHf5l3vqxigyaCjnflT23GnIZ6B1ugXmonSLfkAWz6iUlFEbV-7d79aj0570C-cCr-3WtRQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+![](../images/RemixingMaterials/shellac1.jpg)
 ![](../images/RemixingMaterials/shellac2.jpg)
