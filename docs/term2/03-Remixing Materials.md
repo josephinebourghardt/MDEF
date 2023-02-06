@@ -46,6 +46,8 @@ We were also introduced to moulding and casting and the techniques that can be u
 
 These techniques are also interesting in experimenting with printing clay to create a modular system of water collecting pots where individuals can collect grey water to reuse as well as experiment with growing directly in or on the pot. 
 
+https://remixmaterialsmdef2023.tiiny.site 
+
 ![](../images/RemixingMaterials/shellac1.jpg)
 
 ![](../images/RemixingMaterials/shellac2.jpg)
