@@ -151,3 +151,59 @@ https://jthatch.com/Terrain2STL/
 
 As an exercise we were to during the presentation represent what we thought could be the parametric variables of a croissant. We could draw it by hand, digitally or directly on MIRO. I drew it quickly without thinking too much, where it is built up of geometric shapes. 
 ![](../images/Prototyping/parametricsketch.jpg)
+
+PROTOTYPING FOR DESIGN · 2D MODELLING
+08.02.23
+This week involved introductions to Lasercutting. I have worked with laser cutting before, although it was a while back. Yet again there were many terms and methods I haven’t known the names of or why they are used. I have used laser cutting for making patterns and stencils for moulds and prototypes. It was a while back and therefor good to get a refreshing in the terms and methods. 
+
+Terms & Methods
+
+CNC - Computer Numerical Control. 
+Digital prototyping is CNC  in different ways, laservutting etc (https://en.wikipedia.org/wiki/Numerical_control)
+
+LASER Light Amplification by Stimulated Emission of Radiation - a technology that works by directing the output of a high power laser through optics. The focused laser beam is directed at the material, which then melts, burns, evaporates or is entrained by a gas jet, leaving an edge with a high quality surface finish
+
+Digital Fabrication
+Input device, computer - saved file - output device - physical output 
+CAM to CAD
+
+Plastic, wood, cardboard, fabrics, organic materials
+
+Micro processor vs microcontrollers (processor- like computer brain can freeze, controller like a button control, controlling hardware)
+https://www.naukri.com/learning/articles/difference-between-microprocessor-and-microcontroller/
+
+https://www.archdaily.com/797107/50-downloadable-digital-joints-for-woodworking
+
+Nesting - there are programs that do it for you
+Rhino nest, fusion has it too
+SVG Nest
+Tolerance- Laser is 0.2
+Slicer Fusion - Stacks and names the pieces, helps to make waffle
+
+References FabLab Lasercutting
+https://wiki.fablabbcn.org/Main_Page 
+https://www.iaacblog.com/programs/courses/otf/ 
+
+To put theory into practice we were to use a method to Laser cut. I am currently working with water, where I am testing different clay modules to collect and hold water. I lasercut a couple of different forms that we will be using as moulds for bio materials, as well as a form that will act as a mould for clay where I am experimenting with forms in a modular system. 
+
+This was a good reintroduction to lasercutting as it was a while ago I used it, as well as learning about different machines and how they work. 
+
+Therafter we were to choose a new peogram that we want to learn. I chose to work in Blender wehere I would like to learn how to create animations to compliment communication. I staretd with a simple animation of a bouncing ball to understand the program and methids that can be used, where I want to keep trying out fluids to make animations animating water flows. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cYiEOO4KUwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+I want to learn to work with animations and motion graphics to compliment the communication of this terms project about water systems, showing citizens how they work and how they can be hacked, this could be an interesting option. I therafter experimented with After Effects and motion graphics, where I tried different ways of simulating water. At the moment I am playing around in the programs to learn by doing.
+
+SENSORS
+09.02.23
+The second part of the week we learned about inputs and outputs, looking at different sensors, what they can do and how. We looked at how to choose a sensor for what you want to do, which was very good for a beginner in electronics. 
+
+This was very interesting to look at as I am within a group working with grey water, collecting, filtering and reusing it. Smart Citizen Kits exist for measuring water quality of the ocean, a great way for citizens to collect information about their surroundings to better understand it to enable actions. Could a similar kit exist for measuring water quality in tap water or in grey water collection for reuse? Could this give citizens a better understanding of the water systems in the city? Create trust to the information about the water systems available? Or distrust, empowering through knowledge to take actions and question the systems?
+
+Another project - Clean Water AI - would also be interesting to work with and try, or could a combination of these projects create a simple way for citizens to use and understand there surroundings..
+
+https://www.hackster.io/clean-water-ai/clean-water-ai-e40806
+https://docs.smartcitizen.me/Components/Soil%20and%20water/#atlas-scientific-carrier-board
+https://www.demandsage.com/helium-10-alternatives/
+
+As an assignment from this class 
