@@ -193,7 +193,9 @@ Therafter we were to choose a new peogram that we want to learn. I chose to work
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cYiEOO4KUwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 I want to learn to work with animations and motion graphics to compliment the communication of this terms project about water systems, showing citizens how they work and how they can be hacked, this could be an interesting option. I therafter experimented with After Effects and motion graphics, where I tried different ways of simulating water. At the moment I am playing around in the programs to learn by doing.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/czGsU_-qwJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QmeB5dBiOAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 SENSORS
 09.02.23
 The second part of the week we learned about inputs and outputs, looking at different sensors, what they can do and how. We looked at how to choose a sensor for what you want to do, which was very good for a beginner in electronics. 
