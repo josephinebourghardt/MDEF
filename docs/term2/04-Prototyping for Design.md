@@ -222,7 +222,7 @@ After adding pins and resistors it worked and showed light detected, although no
 
 We then tried to change the code where instead of different values for light resistance, it would have a hig and low, but this didnt work at all, so we went back to the first code where we realised that there was missing information in which pin number. It then went from very bright to dark depending on the light. 
 
-![](../images/Prototyping/dim.png)
-![](../images/Prototyping/dark.png)
+![](../images/Prototyping/photosens.jpg)
+![](../images/Prototyping/codephoto.jpg)
 
-We then tried the light resistancy together with the LED to see how the light resistancy could read the LED when lit. 
+We then tried the light resistancy together with the LED to see how the light resistancy could read the LED when lit.
