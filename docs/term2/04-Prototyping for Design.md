@@ -196,7 +196,8 @@ I want to learn to work with animations and motion graphics to compliment the co
 <iframe width="560" height="315" src="https://www.youtube.com/embed/czGsU_-qwJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QmeB5dBiOAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-SENSORS
+
+INPUTS & OUTPUTS
 09.02.23
 The second part of the week we learned about inputs and outputs, looking at different sensors, what they can do and how. We looked at how to choose a sensor for what you want to do, which was very good for a beginner in electronics. 
 
@@ -208,4 +209,10 @@ https://www.hackster.io/clean-water-ai/clean-water-ai-e40806
 https://docs.smartcitizen.me/Components/Soil%20and%20water/#atlas-scientific-carrier-board
 https://www.demandsage.com/helium-10-alternatives/
 
-As an assignment from this class 
+To put theory into practice we worked with two different boards trying different inputs and outputs. 
+The first boardwas to understand how to connect a LED and a button and to make the LED light up when the button is pressed. We learned that in Arduino IDE there are options with preset code which we used here choosing the option 'Button'. We disconnected parts of the code as comments to 
+
+The second board 
+We then worked on a board with a Photo Sensor, experimenting with how much light it absorbs, testing different light properties in the room to start with before connecting it to the first board to therafter sense the LED light that lights up when the button is pressed.
+
+We used a 100 ohm resitstor as the instructions assigned, yet it was for a 5V Arduino, where we have a 3V. We then tested different resistor ohms, where 100 worked with the Light Sensor, although not very well, it didn't show very much difference from dark and light. We then tried a 10K
