@@ -212,7 +212,11 @@ https://www.demandsage.com/helium-10-alternatives/
 To put theory into practice we worked with two different boards trying different inputs and outputs. 
 The first boardwas to understand how to connect a LED and a button and to make the LED light up when the button is pressed. We learned that in Arduino IDE there are options with preset code which we used here choosing the option 'Button'. We disconnected parts of the code as comments to 
 
-The second board 
-We then worked on a board with a Photo Sensor, experimenting with how much light it absorbs, testing different light properties in the room to start with before connecting it to the first board to therafter sense the LED light that lights up when the button is pressed.
+We then worked on a board with a Photo Cells that are sensors allowing to detect light, experimenting with light resistance, testing different light properties in the room to start with before connecting it to the first board to therafter sense the LED light that lights up when the button is pressed. https://learn.adafruit.com/photocells
 
-We used a 100 ohm resitstor as the instructions assigned, yet it was for a 5V Arduino, where we have a 3V. We then tested different resistor ohms, where 100 worked with the Light Sensor, although not very well, it didn't show very much difference from dark and light. We then tried a 10K
+After adding pins and resistors it worked and showed light detected, although not very well, it didn't show very much difference from dark and light. We used a 100K ohm resistor as the instructions assigned, and then tested different resistor ohms we tried a 10K which didnt change the resistance, there was still not a big difference from light to dark. 
+
+We then tried to change the code where instead of different values for light resistance, it would have a hig and low, but this didnt work at all, so we went back to the first code where we realised that there was missing information in which pin number. It then went from very bright to dark depending on the light. 
+
+
+We then tried the light resistancy together with the LED to see how the light resistancy could read the LED when lit. 
