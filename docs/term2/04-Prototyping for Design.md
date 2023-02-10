@@ -214,9 +214,15 @@ The first boardwas to understand how to connect a LED and a button and to make t
 
 We then worked on a board with a Photo Cells that are sensors allowing to detect light, experimenting with light resistance, testing different light properties in the room to start with before connecting it to the first board to therafter sense the LED light that lights up when the button is pressed. https://learn.adafruit.com/photocells
 
+![](../images/Prototyping/arduinomusic.jpg)
+
 After adding pins and resistors it worked and showed light detected, although not very well, it didn't show very much difference from dark and light. We used a 100K ohm resistor as the instructions assigned, and then tested different resistor ohms we tried a 10K which didnt change the resistance, there was still not a big difference from light to dark. 
+
+![](../images/Prototyping/Photoresistor.png)
 
 We then tried to change the code where instead of different values for light resistance, it would have a hig and low, but this didnt work at all, so we went back to the first code where we realised that there was missing information in which pin number. It then went from very bright to dark depending on the light. 
 
+![](../images/Prototyping/dim.png)
+![](../images/Prototyping/dark.png)
 
 We then tried the light resistancy together with the LED to see how the light resistancy could read the LED when lit. 
