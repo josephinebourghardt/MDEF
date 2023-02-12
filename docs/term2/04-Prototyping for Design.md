@@ -152,9 +152,9 @@ https://jthatch.com/Terrain2STL/
 As an exercise we were to during the presentation represent what we thought could be the parametric variables of a croissant. We could draw it by hand, digitally or directly on MIRO. I drew it quickly without thinking too much, where it is built up of geometric shapes. 
 ![](../images/Prototyping/parametricsketch.jpg)
 
-PROTOTYPING FOR DESIGN · 2D MODELLING
+2D MODELLING
 08.02.23
-This week involved introductions to Lasercutting. I have worked with laser cutting before, although it was a while back. Yet again there were many terms and methods I haven’t known the names of or why they are used. I have used laser cutting for making patterns and stencils for moulds and prototypes. It was a while back and therefor good to get a refreshing in the terms and methods. 
+This week involved introductions to Lasercutting. I have worked with laser cutting before, although it was a while back. Yet again there were many terms and methods I haven’t known the names of or why they are used. I have used laser cutting for making patterns and stencils for moulds and prototypes. 
 
 Terms & Methods
 
@@ -184,9 +184,11 @@ References FabLab Lasercutting
 https://wiki.fablabbcn.org/Main_Page 
 https://www.iaacblog.com/programs/courses/otf/ 
 
-To put theory into practice we were to use a method to Laser cut. I am currently working with water, where I am testing different clay modules to collect and hold water. I lasercut a couple of different forms that we will be using as moulds for bio materials, as well as a form that will act as a mould for clay where I am experimenting with forms in a modular system. 
+To put theory into practice we were to use a method to Laser cut something. I am currently working with water, where I am testing different clay modules to collect and hold water. This excercise was used to lasercut a simple form that will act as a mould for clay when drying where I am experimenting with forms in a modular system. a simple form that can be used as a mould to form clay and keep it in place while drying. I also lasercut a couple forms that we will be using as moulds for bio materials where we are creating different tableware, we chose as a group to make moulds in different forms that we could use to test different materials.From simple circular forms we can test size and material properties.
 
-This was a good reintroduction to lasercutting as it was a while ago I used it, as well as learning about different machines and how they work. 
+This was a good reintroduction to lasercutting as it was a while ago I used it, as well as learning terms and the use of different Lasercutting machines and how they work.   
+
+![](../images/Prototyping/lasercut.jpg)
 
 Therafter we were to choose a new peogram that we want to learn. I chose to work in Blender wehere I would like to learn how to create animations to compliment communication. I staretd with a simple animation of a bouncing ball to understand the program and methids that can be used, where I want to keep trying out fluids to make animations animating water flows. 
 
@@ -210,9 +212,9 @@ https://docs.smartcitizen.me/Components/Soil%20and%20water/#atlas-scientific-car
 https://www.demandsage.com/helium-10-alternatives/
 
 To put theory into practice we worked with two different boards trying different inputs and outputs. 
-The first boardwas to understand how to connect a LED and a button and to make the LED light up when the button is pressed. We learned that in Arduino IDE there are options with preset code which we used here choosing the option 'Button'. We disconnected parts of the code as comments to 
+The first board was to understand how to connect a LED and a button and to make the LED light up when the button is pressed. We learned that in Arduino IDE there are options with preset code which we used here choosing the option 'Button'. We disconnected parts of the code as comments to test
 
-We then worked on a board with a Photo Cells that are sensors allowing to detect light, experimenting with light resistance, testing different light properties in the room to start with before connecting it to the first board to therafter sense the LED light that lights up when the button is pressed. https://learn.adafruit.com/photocells
+We then worked on a board with a Photo Cell, which is a sensor allowing to detect light, experimenting with light resistance, testing different light properties in the room to start with before connecting it to the first board to therafter sense the LED light that lights up when the button is pressed. https://learn.adafruit.com/photocells
 
 ![](../images/Prototyping/arduinomusic.jpg)
 
@@ -220,9 +222,9 @@ After adding pins and resistors it worked and showed light detected, although no
 
 ![](../images/Prototyping/Photoresistor.png)
 
-We then tried to change the code where instead of different values for light resistance, it would have a hig and low, but this didnt work at all, so we went back to the first code where we realised that there was missing information in which pin number. It then went from very bright to dark depending on the light. 
+We then tried to change the code where instead of different values for light resistance, it would have a high and low, but this didnt work at all, so we went back to the first code we used and  realised that there was information missing, where changing and updating the pinnumber made it work as we wanted. It then went from very bright to dark depending on the light in the room. 
 
 ![](../images/Prototyping/photosens.jpg)
 ![](../images/Prototyping/codephoto.jpg)
 
-We then tried the light resistancy together with the LED to see how the light resistancy could read the LED when lit.
+When testing the light resistancy together with the LED to see how the light resistancy could read the LED when lit we had problem with our LED not working anymore, we now have to find why it isn't working before we can connect the boards. 
