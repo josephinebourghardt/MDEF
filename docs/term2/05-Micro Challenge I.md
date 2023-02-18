@@ -22,6 +22,7 @@ How can we rethink the relationship we have with water? Can a first person persp
 Can a modular grey water collection system create respect for the resource that holds life? With water as the main substance it can provide isolation and allow life to flourish, housing plants and other species, allowing the transfer of materials, filtering them where needed, and optimising energy usage by decreasing water consumption of fresh resources and waste water collection and management, Can a simple ‘water brick’ create a future where a modular wall of water collection that adapts and transforms depending on needs become standard in homes? Can making vertical gardening, growing your own food, and water accessible to people in urban environments where it is typical that space is an issue?
 
 WHAT
+
 We are aiming to create an open source modular system for citizens to collect and reuse grey water in the living space where creating awareness of water systems and what you flush down the drain, knowledge of saving and reusing grey water can help conserve fresh water resources, reduce strain on municipal water treatment systems, as well as reduce the amount of wastewater released into the environment.
 
 Integrating grey water storage systems in apartments has the potential to greatly impact urban water systems by improving water management, conserving resources, and making cities more sustainable. Grey water is the wastewater generated from sources such as sinks, showers, and washing machines. If collected and treated properly, grey water can be safely reused for non-potable purposes, such as flushing toilets, watering plants, and cleaning. 
@@ -46,6 +47,9 @@ We wanted to understand what measuring water quality could actually mean and wha
 
 SENSORS FOR MEASURING WATER QUALITY
 ![](https://i.imgur.com/ROmBF4V.jpg)
+
+TEMPERATURE
+
 ![](https://i.imgur.com/oci8blR.jpg)
 One Wire Temperature Sensor - DS18B20
 https://www.seeedstudio.com/One-Wire-Temperature-Sensor-p-1235.html 
@@ -54,7 +58,7 @@ Temperature testing is the process of measuring temperature levels in water. Tem
 
 https://www.aquaread.com/sensors/temperature
 
-PH SENSOR
+PH
 
 ![](https://i.imgur.com/wqdDUbr.jpg)
 PH sensors play a very important role in water quality and water treatment. One of the most important indicators of water quality test is its pH. 
