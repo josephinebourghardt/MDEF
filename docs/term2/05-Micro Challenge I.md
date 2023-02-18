@@ -11,7 +11,7 @@ hide:
 Cagsun Acemoglu · Josephine Bourghardt · Korbi Nida-Rumelin · Ramiro Arganaraz 
 
 
-This is my personal reflection and notes from the first Micro Challenge. 
+These are my personal reflection and notes from the first Micro Challenge. 
 
 ## PROJECT
 
