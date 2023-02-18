@@ -81,16 +81,14 @@ Conductivity is a measurement of the concentration of ions present in a sample. 
 Conductivity is measured by conductance between two or four electrodes using the current method or potentiometric method. When the electrodes are immersed in the sample, the electrodes cause a current to pass through the sample solution. The relative concentration of ions in the solution will determine the conductivity or resistivity of the sample. The conductivity is expressed in Siemens units.
 
 2 electrode probes (amperometers) – they work through two electrodes that are isolated from each other. Made of non-reactive materials and constructed so that both will be in contact with the sample at the same time. These two electrodes pass current through the sample at a specific frequency, the more ions present, the higher the EC reading.
-4 Electrode Probe (Potentiometer) – The electrode body has four platinum rings. The top and bottom rings (on the outside) apply AC voltage to the sam planned and executed the project. (Explain personal contributions)
-Integrated Design (How you designed it - relation between elements)
-Honest Design (use of technology in a meaningful way, in relation to your interventions)
-Explore design boundaries (based on your expertise)
+4 Electrode Probe (Potentiometer) – The electrode body has four platinum rings. The top and bottom rings (on the outside) apply AC voltage to the sam planned and executed the project. 
 
 We used these specific sensors as they were available in the FabLab. It took longer to calibrate the sensors than we expected. The project also quickly became very technical, where we from the start spoke about 'hacking' these sensors and making our own, mostly to play around with them and use the microchallenge to understand water quality from different sources and how different simple filters could effect the quality. 
 
 When the project took this turn and became very technical it also played a roll in how the overall design and project proceeded within the water collection tool part. As the sensors became a central part of the design and the time it takes to calibrate, understand the software and code, it was hard to use them to also understand how they could be integrated into a system, or how to design something where they could be a part of a system. 
 
 TOOL
+
 How can we create a tool that holds the sensors we need in place and lets water pass through to measure the flow? We wanted to learn more about sensors, how they work and what they show and to create a system where we could use this information in different stages of a water system. During this term we are working with water in different ways, testing filters and modular systems to collect an reuse grey water. For this it was important that we could use the sensors in different places, size of container and that in the end it could be used to learn more about how it could be fit into a bigger system. 
 ![](https://i.imgur.com/lW8RyLo.jpg)
 ![](https://i.imgur.com/Nd4qMfU.jpg)
