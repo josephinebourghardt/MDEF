@@ -228,3 +228,43 @@ We then tried to change the code where instead of different values for light res
 ![](../images/Prototyping/codephoto.jpg)
 
 When testing the light resistancy together with the LED to see how the light resistancy could read the LED when lit we had problem with our LED not working anymore, we now have to find why it isn't working before we can connect the boards. 
+
+I N T E R F A C E  ·  M A C H I N E  v s  M A C H I N E 
+0 1 . 0 3 . 2 3
+
+Today we did many of the things that we have already done in class, but this time with a very hands-on approach, by learning through doing and then reading in on what we had done. This was for me a very good way to learn and I felt like I understood what I was doing a lot more. 
+
+Practically all we used was an Arduino, a bread board and a LED light, but used the LED in different ways. 
+
+T H E - H A R D - C O D E D - W A Y
+
+Finding the code in Arduino IDE and using basic, here its important to change the LED to a pin so it doesn’t use the LED on the Arduino. Here we changed it to LedPin 14 in all of the code and the LED blinks within the time frame put in the code of the led being on and off. We have done this in classes before, but for me this was really the first time that I understood what I was doing and how I could controll the code and the Arduino. 
+
+![](https://i.imgur.com/It3kp5D.jpg)
+![](https://i.imgur.com/g39CY3Z.jpg)
+
+
+A S K I N G - F O R - I T
+
+We can add a message and make it do what we ask it to do. I tested very simple actions by adding blink twice and blink twice slowly. I wanted to start with simple things to actually understand what I was changing in the code and how the LED acted from that. 
+
+![](https://i.imgur.com/V6vOmm3.jpg)
+
+M A K I N G - I T - D O - A N I M A T I O N S
+
+We installed and used the library JLed which includes code that makes the LED act in different ways, breathe for example where it lights up slowly and fliuidly as a breathe. There are many possibilities to play with LEDs, connecting many in different light patterns for example. 
+
+![](https://i.imgur.com/Q6fcgwk.jpg)
+
+A S K I N G - I T - F R O M - T H E - I N T E R N E T  (I and II)
+
+Last week we worked on this, but in a different way, where we made our own 'network' in the class and sent messages to eachother within it. What we did today was similar but for me explained in a very understandable way. 
+
+MQTT trigger things or get things from sensors. The concept of MQTT is as simple as that you have a server: the MQTT broker, that can sense things. It's a big part of the internet of things IOT. Then we have publishers - sensors that could be anything, for example a computer. Then we also have subscribers that are listening to the broker and waiting for the broker to tell them what to do. 
+![](https://i.imgur.com/wsTFBPh.jpg)
+
+M A K I N G  - S E N S O R S - T O - D O - I T - R E M O T E L Y 
+
+
+
+
