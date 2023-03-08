@@ -6,7 +6,7 @@ hide:
 # **PROTOTYPING FOR DESIGN**
 This section will be part of a weekly journal where I’ll be documenting what we are doing during the course Prototyping for Design. Parts of it will be very simple documentation of the process for future use and understanding
 
-PROTOTYPING TOGETHER 
+P R O T O T Y P I N G  T O G E T H E R 
 01.02.23
 
 Starting off the course we were reintroduced to electronics and Arduino receiving homework to create music with an ESP32 and a buzzer. Since I haven’t worked with it before the one week course during the first term I will be documenting this step by step for remembering how to get started in the future.
@@ -20,9 +20,9 @@ For me, this exercise was a good refresh in what we did in the first term, allow
 
 ![](../images/Prototyping/arduinomusic.jpg)
 
-02.02.23
-DIGITALIZING REALITIES 
 
+D I G I T A L I Z I N G  - R E A L I T I E S 
+02.02.23
 Today we had a presentation about digital tools for 2D, 3D, parametric and generative deisgn. We started off by communally adding programs we have worked with in the past to a Miroboard. I have used 2D and 3D programs for modelling before such as Illustrator, Rhino, Solidworks, Grasshopper, Sketchup to create 3D and 2D models and files for digital manufacturing, where I now saw so many interesting programs and other ways of working. Although I have worked in 2D and 3D to create models and files for digital fabrication there were many terms and things I was not aware about or not complete sure of why I used, I had just learnt that that’s how you do it. 
 
 List 
@@ -152,7 +152,7 @@ https://jthatch.com/Terrain2STL/
 As an exercise we were to during the presentation represent what we thought could be the parametric variables of a croissant. We could draw it by hand, digitally or directly on MIRO. I drew it quickly without thinking too much, where it is built up of geometric shapes. 
 ![](../images/Prototyping/parametricsketch.jpg)
 
-2D MODELLING
+2 D - M O D E L L I N G
 08.02.23
 This week involved introductions to Lasercutting. I have worked with laser cutting before, although it was a while back. Yet again there were many terms and methods I haven’t known the names of or why they are used. I have used laser cutting for making patterns and stencils for moulds and prototypes. 
 
@@ -199,7 +199,7 @@ I want to learn to work with animations and motion graphics to compliment the co
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QmeB5dBiOAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-INPUTS & OUTPUTS
+I N P U T S  &  O U T P U T S
 09.02.23
 The second part of the week we learned about inputs and outputs, looking at different sensors, what they can do and how. We looked at how to choose a sensor for what you want to do, which was very good for a beginner in electronics. 
 
@@ -228,6 +228,36 @@ We then tried to change the code where instead of different values for light res
 ![](../images/Prototyping/codephoto.jpg)
 
 When testing the light resistancy together with the LED to see how the light resistancy could read the LED when lit we had problem with our LED not working anymore, we now have to find why it isn't working before we can connect the boards. 
+
+N E T W O R K I N G
+22.02.23
+
+In this class we spoke about the internet and how it can be seen as one of the most complex copying machines ever invented. Built up and used in networks, which are a set of devices connected to each other through any type of communication lines that allow the exchange of data between them. In a way it's network of devices that are copying bits from one place to another. When you access a website you're only copying a file from one computer to yours. 
+
+![](https://i.imgur.com/oo20KRQ.jpg)
+
+Jeroen vaan Loon materializes a glass internet filled with smoke signals. For his latest piece ’an internet’, the artist’s motivation was a simple question: how would the internet look like if all data were temporary and ephemeral?
+
+When using the internet we have and share copies of our data all over the internet. Are we willing to share our information in that way? What happens to the world, cultures understandings of selves when information is available everywhere and all the time?
+
+Culture and ethics. We become ourselves through our local relationships, people, situations, culture, school, work - they make us think and be in a specific way. What happens when we build relationships with places and people in a larger network, we build a picture or way of being in our head, but it can be very different from how we are physically, disconnecting us from our local selves, hard to adapt to physical reality. Are people living in parallel realities through social media for example? What happens when young people see things on social media without a critical mind, believing that what they see is someones reality? Or believing that what they post is what is the important reality? The one that can be designed to look the way you prefer? 
+
+People can tend to seperate things in poles, what is right and wrong, which can become very black and white. Ideas can then become very big and strong, compared to what they really are, especially as we tend to connect with people or things that reinforce what we are saying, that say that we're right, creating lots of small echo bubbles which can become a dangerous thing. 
+
+
+Is it necessary to be connected all the time, do we need to write to someone sitting next to us? When oing so this data moves through multiple layers mving large distances before reaching the receiver. Do you really need to be always connected?  Do we really need to send things all over the world to send a message? Why can’t we send things locally? If we are all on the same wifi, why cant we just send data in this layer? 
+
+In the class we used our Arduinos and created our own network, it was decided who was part of it and who could connect with who. 
+
+![](https://i.imgur.com/4nyzj1i.png)
+![](https://i.imgur.com/B55ErUG.png)
+![](https://i.imgur.com/8fuVUH7.png)
+
+3 D  M O D E L L I N G  C N C 
+23.03.23
+
+
+
 
 I N T E R F A C E  ·  M A C H I N E  v s  M A C H I N E 
 0 1 . 0 3 . 2 3
