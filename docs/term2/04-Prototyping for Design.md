@@ -253,8 +253,19 @@ In the class we used our Arduinos and created our own network, it was decided wh
 ![](https://i.imgur.com/B55ErUG.png)
 ![](https://i.imgur.com/8fuVUH7.png)
 
-3 D  M O D E L L I N G  C N C 
+3 D  M O D E L L I N G  
+C N C - S U B S T R A C T I V E  M A N U F A C T U R I N G
 23.02.23
+
+CNC milling is a manufacturing process that uses a cutting tool mounted on a rotating spindle to selectively remove material from a block of raw substrate. The workpiece is rigidly mounted to a table, and this table moves or rotates on different planes so the tool can work at many angles. Sophisticated CNC milling machines can have 5 or more axes of independent motion to make more complex shapes or to avoid having to move the workpiece to a separate machine.
+
+The axis of motion for a CNC milling machine are based on an X-Y-Z coordinate measuring system. All machinists refer to this when describing the basic movements of the mill, relative to an operator facing the machine. A standard CNC mill for example has three axes. The milling spindle represents the Z-axis, moving up and down. The X-axis is left-to-right, and the Y-axis is front-to-back.
+
+All of these movements of CNC mills rely on Computer Numeric Control, which is a computer program derived from a 3D digital file of the desired finished part.
+
+Many materials can be milled with CNC, acrylics, metal, wood as examples. It is very accurate and used to make many different products with a great finish and precision. 
+
+The CNC cuts in layers creating small 'stairs', depending in the finish chosen, different mills would be used where the round one is used last to create a top finish. It is a tool that is accurate, fast and efficiant for production. 
 
 
 
