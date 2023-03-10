@@ -254,7 +254,7 @@ In the class we used our Arduinos and created our own network, it was decided wh
 ![](https://i.imgur.com/8fuVUH7.png)
 
 3 D  M O D E L L I N G  C N C 
-23.03.23
+23.02.23
 
 
 
