@@ -30,6 +30,9 @@ The past year leading up to joining the Master in Design for Emergent Futures ha
 
 We need to work together as one for regenerative design and futures. 
 
+https://www.innerdevelopmentgoals.org/framework 
+The Inner Development Goals (IDGs) is a not for profit and open source initiative. The framework of skills and qualities relate to what is needed in order to successfully work with complex societal issues, in particular those identified in UN's Agenda 2030 and the 17 Sustainable Development Goals. Some similar frameworks have a broader scope, such as skills and qualities that are important for general well-being or for empowering individuals to lead satisfying lives.
+
 
 
 REFERENCES
