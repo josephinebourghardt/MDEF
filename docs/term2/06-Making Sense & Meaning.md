@@ -26,6 +26,10 @@ As quoted in the previous paragraph the actions we take have far- reaching conse
 
 The past year leading up to joining the Master in Design for Emergent Futures has been a path leading to the bottom of the U and I can feel how my two selves are connecting, creating this feeling of lostness when my outer and inner self are debating. This does although mean that I am moving forward and it helped me to understand what Dr. Akomolafe means with finding comfort in the unknown and embracing it. My journey will keep moving by doing and acting towards becoming a one with what I do and with who to move towards the other side of the U. In a time of environmental, social and personal uncertainty I will do this by slowing down, not in speed but in awareness or presence, to listen to my inner self that I can hear has something to say about my outyerself and what I am doing. ‘To slow down is to hack the machine, like we’re taking on other forms of body that allow us to penetrate into different kinds of realities—other worlds’ as Dr Akomolafe says (Atmos, 2023). 
 
+![](https://i.imgur.com/RIAVraq.gif)
+
+We need to work together as one for regenerative design and futures. 
+
 
 
 REFERENCES
