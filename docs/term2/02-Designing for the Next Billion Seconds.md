@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# **DESIGNING FOR THE NEXT BILLION SECONDS**
+# D E S I G N I N G - F O R - T H E - N E X T - B I L L I O N - S E C O N D S 
 
 11.01.23 - 13.01.23
 Josephine Bourghardt

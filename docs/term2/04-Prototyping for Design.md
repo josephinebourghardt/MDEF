@@ -3,7 +3,8 @@ hide:
     - toc
 ---
 
-# **PROTOTYPING FOR DESIGN**
+# P R O T O T Y P I N G - F O R - D E S I G N
+
 This section will be part of a weekly journal where I’ll be documenting what we are doing during the course Prototyping for Design. Parts of it will be very simple documentation of the process for future use and understanding
 
 P R O T O T Y P I N G  T O G E T H E R 

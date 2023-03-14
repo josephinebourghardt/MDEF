@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# **REMIXING MATERIALS**
+# R E M I X I N G  -  M A T E R I A L S
 
 18.01.23 - 20.01.23
 

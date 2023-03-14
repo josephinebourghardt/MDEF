@@ -5,9 +5,6 @@ hide:
 
 #  M I C R O   C H A L L E N G E  · I
 
-
-
-
 Cagsun Acemoglu · Josephine Bourghardt · Korbi Nida-Rumelin · Ramiro Arganaraz 
 
 

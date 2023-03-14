@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# **M A K I N G  S E N S E  &  M E A N I N G**
+# M A K I N G  S E N S E  &  M E A N I N G
 
 M A K I N G  S E N S E  A N D  M E A N I N G 
 

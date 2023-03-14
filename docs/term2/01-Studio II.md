@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# **STUDIO II**
+# S T U D I O · I I
 
 The first term involved a lot of feelings of being lost, trying to understand what subjects interest me, letting go of control and learning and moving forward by doing. Keeping an open mind and accepting the feeling of being lost were two of the most useful insights during the first term. By letting go of trying to control what we were gonna do and with who and how it would look and act etc, letting go became fuel for the project where lots of new contacts were made, and new opportunities arose. The term was compact with different courses that helped explore subjects from different perspectives. During the term I have personally worked on understanding my passions, communicating what I am good at within a group and practicing to communicate projects and thoughts verbally with contacts to find opportunities of intervention. 
 
