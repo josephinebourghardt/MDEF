@@ -267,6 +267,13 @@ Many materials can be milled with CNC, acrylics, metal, wood as examples. It is 
 
 The CNC cuts in layers creating small 'stairs', depending in the finish chosen, different mills would be used where the round one is used last to create a top finish. It is a tool that is accurate, fast and efficiant for production. 
 
+As an assignment we were to make a piece of furniture in pairs. We had one sheet of Plywood 2400.1200.15 to share between two students. I worked together with June where we made a small stool for the classroom as the existing chairs are not made to sat for longer periods of time, they are very low, and are hard to sit on comfortably when there is a need to concentrate for long periods of time as we have many and long lectures. 
+
+We wanted to create a 'chair' that is flat pack without the need for screws or binding. It has a boxy amusing expression, and will be painted in bright blue to add some color to the classroom. The most important for me is that the seat height is higher than the existing chairs and the possibility to sit on the front part is increased to sit better for longer periods of time at the existing tables. 
+![](https://i.imgur.com/TQkpFu9.jpg)
+
+
+
 
 
 
@@ -306,6 +313,41 @@ MQTT trigger things or get things from sensors. The concept of MQTT is as simple
 
 M A K I N G  - S E N S O R S - T O - D O - I T - R E M O T E L Y 
 
+
+3 D  F A B R I C A T I O N  &  S C A N N I N G
+02.03.23
+
+https://reprap.org/wiki/RepRap 
+
+3 D  P R I N T I N G
+
+3D printing is the additive process of layers to build a 3 dimensional object. The benefits with 3D printing and additive manufacturing are no or minimal waste, saving a lot of material at a low cost while being able to manufacture complex forms. 
+
+It is also a great source for rapid prototyping of testing forms, shapes, durability. 
+
+There are a variety of 3D printing materials, including thermoplastics such as acrylonitrile butadiene styrene (ABS), metals (including powders), resins, ceramics, clay and bio materials.
+
+The most common printing technology is Extrusion (FDM), but there is also Light Polymerised (SLA) and Powder bed (3DP)
+
+Layer height · Resolution vs Time
+The thickness of the layer height determines the resolution of the surface. By using lower print height the resolution or finish is better but it takes longer. If printing with curvature lowering the layer height will reduce the stair effect that will become less visible. 
+
+Shell Thickness 
+Increasing thickness increases resistance. Adding number of shells will also increase printing time and material.
+
+
+3D SCANNING
+Taking a picture of an object as 3 dimensional. Similar technologies are used in everyday products such as iPhone using scanning for faceid recognition.
+
+3D scanning is the process of analyzing a real-world object or environment to collect data on its shape and possibly its appearance (e.g. color). The collected data can then be used to construct digital 3D models.
+
+A 3D scanner can be based on many different technologies, each with its own limitations, advantages and costs. Many limitations in the kind of objects that can be digitised are still present. For example, optical technology may encounter many difficulties with dark, shiny, reflective or transparent objects. For example, industrial computed tomography scanning, structured-light 3D scanners, LiDAR and Time Of Flight 3D Scanners can be used to construct digital 3D models, without destructive testing.
+
+Collected 3D data is useful for a wide variety of applications. These devices are used extensively by the entertainment industry in the production of movies and video games, including virtual reality. Other common applications of this technology include augmented reality,[1] motion capture,[2][3] gesture recognition,[4] robotic mapping,[5] industrial design, orthotics and prosthetics,[6] reverse engineering and prototyping, quality control/inspection and the digitization of cultural artifacts.[7] (Wikipedia)
+
+As an assignment we were to 3D print something and then 3D scan it or the other way around. I 3D printed a plug that I wanted to try to connect in an existing brick and experiment with creating a water tight plug to cennect bricks while still letting water flow between them. This was therafter scanned where I used the app Polycam to test the results of scanning with a phone. I have used different 3D scanning tools before, altough a while ago, but in my work not had much need of the precision of them. I therefor wanted to try a tool that could be used without setting up lots of equipment to see if this could add some curiosity to the tool, and try and use it as a tool for experimentation and inspiration of form. 
+
+![](https://i.imgur.com/GoPIafi.jpg)
 
 
 
