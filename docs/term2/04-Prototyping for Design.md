@@ -272,6 +272,7 @@ As an assignment we were to make a piece of furniture in pairs. We had one sheet
 
 We wanted to create a 'chair' that is flat pack without the need for screws or binding. It has a boxy amusing expression, and will be painted in bright blue to add some color to the classroom. The most important for me is that the seat height is higher than the existing chairs and the possibility to sit on the front part is increased to sit better for longer periods of time at the existing tables. 
 ![](https://i.imgur.com/TQkpFu9.jpg)
+![](https://i.imgur.com/M9MqGFG.jpg)
 
 
 
