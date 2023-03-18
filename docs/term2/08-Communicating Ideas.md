@@ -26,5 +26,9 @@ I have started to make a new website to try and illustrate who I am and the proj
 ![](https://i.imgur.com/XdxT2in.jpg)
 ![](https://i.imgur.com/UgUNOoS.jpg)
 
+Who are we contacting? Engage with the right people, the clearer your target is, the easier it is to reach them and the more targeted your message, the better the potential outcome.
+
+Work smarter, not harder. Focus on serving the people that give the best investment for you. What stakeholders and audiences are in your project?
+
 D E L I V E R A B L E S 
 
