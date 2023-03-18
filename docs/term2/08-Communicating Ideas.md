@@ -10,7 +10,7 @@ Communication forms the basis of this meaning making
 Communication is the transfer of information, ideas, emotions, feelings between people
 We use symbols, cultural codes, signs in verbal and non-verbal formats.
 
-COMMUNICATING EMERGENT FUTURES
+C O M M U N I C A T I N G  E M E R G E N T   F U T U R E S
 
 Emergent futures are, by description, new and therefore can be unknown 
 It’s our responsibility to ensure our ideas are made accessible and understandable
@@ -25,4 +25,6 @@ It is important to understand what communication is - One cannot not communicate
 I have started to make a new website to try and illustrate who I am and the projects I have worked on in a way that reflects on my values and communication.
 ![](https://i.imgur.com/XdxT2in.jpg)
 ![](https://i.imgur.com/UgUNOoS.jpg)
+
+D E L I V E R A B L E S 
 
