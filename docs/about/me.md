@@ -7,3 +7,5 @@ I am an analytical problem-solver with a desire to understand how things fit tog
 My fight lies in creating a balance in the relationship between humans and nature and all that is in-between. Working with materials, production methods and communities to create regenerative environments.
 
  **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+
+![](../images/Interventions/test5.jpg)
