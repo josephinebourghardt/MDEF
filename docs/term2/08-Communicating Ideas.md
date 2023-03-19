@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-C O M M U N I C A T I N G  I D E A S
+# C O M M U N I C A T I N G  I D E A S
 
 Humans construct worlds by attributing meaning to otherwise meaningless things
 Communication forms the basis of this meaning making
