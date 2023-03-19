@@ -42,6 +42,8 @@ We have also experimented with switching the sand with Calcium Carbonate in pure
 Alongside investigating form with Corncrete I've been experimenting with coating with Shellac. We want to see if we could use this as a food safe water resistant coating to Bio Materials. 
 ![](https://i.imgur.com/DDJ9VUF.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DM4z8Y_16rQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
 O C E A N  &  P L A S T I C
 
 Every Saturday I have been volunteering together with Sami at the beach clean up in Barceloneta that is organised by Clean Beach Initiative. It started out as a part of the Bio Design Dinner project to understand how organisations in the neighbourhood work with ocean waste and gathering communities to clean the beach. 
@@ -61,6 +63,8 @@ From the first experience we realised the amount of small microplastics in the s
 We're experimenting with different forms and how this could be integrated in the practice to collect more in the same amount of time. We also want to look at what can be done with the waste or if we can integrate other communities in the practice. 
 
 ![](https://i.imgur.com/oVTsD09.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lZb_eMWvwpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 W A T E R 
