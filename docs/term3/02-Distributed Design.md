@@ -18,3 +18,15 @@ Distributed design offers designers the opportunity to rethink how they design, 
 
 Dialogue as a design tool “It is no longer an authoritarian relationship. I’m no longer selling you a chair that you can’t change. I’m making the chair open source, and we can have a dialogue about how that chair should be made for you,” says product designer Alex Kimber. (DDC – Danish Design Center, 2020)
 
+
+R E F E R E N C E S
+
+DDC – Danish Design Center. (2020). How might distributed design change the designer’s role? [online] Available at: https://ddc.dk/how-might-distributed-design-change-the-designers-role/ [Accessed 14 Apr. 2023].
+
+DDC – Danish Design Center. (2021). Distributed design: You have the power – we have the tool. [online] Available at: https://ddc.dk/distributed-design-you-have-the-power-we-have-the-tool/# [Accessed 14 Apr. 2023].
+
+Distributed Design Market Platform. (2018). About - Distributed Design Market Platform. [online] Available at: https://distributeddesign.eu/about/.
+
+www.youtube.com. (n.d.). Driven by Distributed Design: Nat Hunter and Gareth Owen Lloyd from Other Today. [online] Available at: https://www.youtube.com/watch?v=2pNhwKDWVy8 [Accessed 14 Apr. 2023].
+
+‌
