@@ -39,7 +39,17 @@ We also did an exercise where we shared our values within the class, something I
 
 ![](https://i.imgur.com/QAzgeHu.jpg)
 
+L E A R N I N G  S K I L L S
 
+When doing the Reflection Tree and Value assignment it helped to be able to look at yourself, projects and values with an analytical and critical mind. It gives different perspectives and looks at both positive and negative impacts. 
+
+D Y N A M I C S
+
+Within our group we had different ways of understanding and tackling things this created impactful and interesting discussions that helped us look at things from many different perspectives and get a broader understanding. I very much appreciate the differences within the group and how we had meaningful discussions due to these differences.
+
+I N T E R A C T I O N S
+
+When working with the value assignment I took on the roll to start writing down & illustrating what we were talking about. It is a roll I agree with as I communicate strongly visually, it didn't influence my opinion per say about the topic, more inspired me more.
 
 R E F E R E N C E S
 
