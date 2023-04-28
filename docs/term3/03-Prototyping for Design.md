@@ -3,8 +3,9 @@ hide:
     - toc
 ---
 
-# P R O T O T Y P I N G · F O R · D E S I G N · R O B O T S 
+# P R O T O T Y P I N G · F O R · D E S I G N 
 
+R O B O T S 
 19.04.23
 
 Through advancements in technology the use of robots is becoming cheaper and cheaper. A robotic arm can be used for measuring, 3D scanning, cutting, milling, drawing, spaying, 3D printing, assembling as some examples. 
@@ -25,6 +26,49 @@ During this class we were introduced to robots, how they work, what they can do 
 ![](https://i.imgur.com/eN9blBu.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ycJ9lMgZVuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+H U M A N   I N T E R F A C E
+
+26.04.23
+
+*Interface (Computing): a device or program enabling a user to communicate with a computer. "a graphical user interface”*
+
+During this class we were introduced to interfaces and how ... works with them. She works with 'Interaction, Electronics and Embodiment', asking the questions *How can I use my body, movement, senses and electronics and sensors? What is the body? How can I use this question as a concept or idea?* Working from a 1st person perspective using sensors, audio and video on her own body to understand the feelings about using them, understanding them and then sharing this info through electronic arts and digital arts. She has been working with electronics in different ways collaborating with the body and movement, with robots, lights and media. Her work is a dialogue between the question, digital media, visuals and electronics. 
+
+
+She wanted to understand the way we construct our identity with the environments around us, through relationships with people and things, and how do we build our bodies and identities when were so connected to technology and digital where the internet is always with us. We were then introduced to her work with Live-streaming and how others work with it. (cuerpo transceptor)
+
+Live Coding - The practice of using code as a tool for music and visuals with the intention to always share the code openly.
+
+
+TOPLAP Barcelona is a collective that practices and promotes live coding as a sound and visual creation technique, generating a technological appropriation through the use and development of free and open software focused on generating its own relationships and discourses. https://toplapbarcelona.hangar.org
+
+Allows to improvise, shows the screens and shows how people are working with the side.
+
+Hydra : Language by Olivia Jack
+
+Inspired by modular synthesisers making it for image
+We were introduced to the tool Hydra https://hydra.ojack.xyz/?sketch_id=example_16 where we could play live with code to generate visuals. We played around withe numbers and were shown how to start from the beginning with code to create new ones. We were shown how camera and audio could be used as parameters in the code as well using the computers camera and microphone. 
+
+It was for me a very cool tool to play with code in a fun way for someone who is not directy interested in coding, but would like to learn a bit more. By changing code or changing parameters the visualisation changes also. 
+
+
+
+https://ojack.xyz
+
+B L E N D E R  · A S · A · T O O L · T O · M A K E · I N T E R F A C E S
+27.04.23
+
+In class we were introduced to using Python interface as a way to access anything in Blender. Together with Victor we made shapes and commands with simple code. We then connected a phone as a sensor that streams directly to the code where we could move objects through moving the phone. 
+
+*Python is an interpreted, interactive, object-oriented programming language. It incorporates modules, exceptions, dynamic typing, very high-level dynamic data types, and classes. Python combines remarkable power with very clear syntax. Python scripts are a versatile way to extend Blender functionality. Most areas of Blender can be scripted, including animation, rendering, import and export, object creation and automating repetitive tasks.* (https://docs.blender.org/manual/en/latest/advanced/scripting/introduction.html)
+
+
+As a hands on assignment we also connected a LED to Arduino that was then connected to Blender, where the LED could be controlled directly from Blender. 
+
+
+It was very useful to see the different possibilities of using Python in Blender, although at this point I am more interested in learning to use Blender for 3D modelling, animation and rendering where I for the moment am not in need of simplifying too many tasks or using add ons. But for the future when I am more skilled in the program and know what I want to use it for, this is valuable to know and I would like to learn the basics, but will most probably collaborate with people who enjoy coding more than I do.
+
 
 
 
