@@ -52,6 +52,11 @@ We were introduced to the tool Hydra https://hydra.ojack.xyz/?sketch_id=example_
 
 It was for me a very cool tool to play with code in a fun way for someone who is not directy interested in coding, but would like to learn a bit more. By changing code or changing parameters the visualisation changes also. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jOrM3K9YIJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GltHx-sZl6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HcVO_z9asF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 https://ojack.xyz
