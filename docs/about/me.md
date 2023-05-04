@@ -1,4 +1,11 @@
-# **ABOUT**
+# A B O U T
+
+Alternative Bio
+
+An inter disciplinary designer with a hybrid profile on a mission to improve everyday life for people and the planet. With a blend of physical and digital technologies, arts, and sensations to empower citizens through artefacts and storytelling to take action. Committed to making information visible and accessible with the core philosophy that any meaningful exchange of information between people must carry emotions and experiences to create knowledge and drive change. With a background in product and furniture design I work hands on with a natural talent for visualisation and form.
+
+
+Bio
 
 I’m Josephine. I have a background in Product/ Furniture design with focus on working with social and environmental issues and how the things around us affect people, mental health and the environment. 
 
