@@ -35,3 +35,9 @@ https://www.media.mit.edu/publications/open-source-estrogen/
 https://maggic.ooo/Open-Source-Estrogen-1
 
 This class raised important topics in an interesting way, there were many terms that were for me hard to understand in English, but a good way to learn them. A reminder to remember the privileges we have and are born with, and the importance to raise your voice as a woman and take a stand for our rights. We were shown inspiring projects that do this in the intersection of art, design, science and experimental practices.  
+
+During the second session we were further introduced to organisations and collectives that work with art, science and technologies to question the status quo and normalised subjects. We watched a video from Aqua_Forensic that aims to visualise invisible anthropogenic pollutants in water habitats. The project combines: art, science, and a citizen-science approach to collect and process information on pollutants – 'invisible chemical pollutants' such as legal & illegal drugs – mood controllers, antibiotics, antimycotics, painkillers, hormone pills etc.that are the residue of human consumptions discharged into underwater habitats. The project goal is to make these invisible anthropogenic pollutants and the pattern of their effect in the water habitats visible. 
+https://www.fact.co.uk/artwork/aqua-forensic
+https://robertina.net/aqua_forensic/
+
+This project was very interesting regarding the different projects I am a part of during this term reagrding, water, sea, waste and communicaion around this. 
