@@ -38,3 +38,9 @@ Blockchain is a system of recording information in a way that makes it difficult
 A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain. Each block in the chain contains a number of transactions, and every time a new transaction occurs on the blockchain, a record of that transaction is added to every participant’s ledger. The decentralised database managed by multiple participants is known as Distributed Ledger Technology (DLT).
 
 Blockchain is a type of DLT in which transactions are recorded with an immutable cryptographic signature called a hash (https://www.euromoney.com/learning/blockchain-explained/what-is-blockchain#:~:text=Blockchain%20is%20a%20system%20of,computer%20systems%20on%20the%20blockchain.).
+
+During class we created our own Wallets where we received an amount of currency to create a profile on Tzk and then upload our own NFT on Objkt.
+
+![](https://hackmd.io/_uploads/BJxzc8q42.png) 
+
+The concept around NFTs is an interesting reflection on what it means to 'own something'. What do we really own and does the feeling of owning soemthing have to be connected to holding the physical object in our hands? One can think so, yet many of the things we 'own' are fictional owning - a phone as an obejct we can hold in our hands but seemingly we are borrowing it where we cant change what is inside or decide what information will be shared, or owning land, creating a fictional boundary of a space we have decided to 'own', are we also owning what was on the land when purchased? The plants and insects, animals that were there before us? In a way an NFT is dort of just a projection of the world and fictional ownerships we have decided exist.
