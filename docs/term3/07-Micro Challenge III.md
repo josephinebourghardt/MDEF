@@ -2,45 +2,202 @@
 hide:
     - toc
 ---
+M I C R O ·  C H A L L E N G E  ·  I I I
 
-# D E C E N T R A L I Z E D · A U T O N O M O U S · O R G A N I Z A T I O N S
 
-04.05.23
+June Bascaran · Josephine Bourghardt · Sami Piercy 
 
-During this class we spoke about technology and understanding our relationships with it, the black box, marketing strategies behind it, advances in technology, how we understand it less, and want to learn less about it, but that we still want to use it, although as quick as possible and directly, like for example using your phone, if you needed one day to learn how house an app, would we then use it? We want everything to stay easy and directly usable. 
+For the third Microchallenge with the topic of Interfaces we worked with communication methods for the last intervention at the MDEFest that we will be doing in June. For me this was a great opportunity to parctice and learn how to work with Blender and create animations, something that I want to learn more about. Below you can find the process of the Micro Challenge and at the end reflections about the assignment.
 
-It has evolved from something we couldn’t control or see, to then visualising it thorugh numbers, as a start with for example post numbers, to telegrams in numbers and now we are talking about neural networks and the black boxes are even more present, where we don’t know what’s going on inside, we don’t know exactly what is happening or why combinations are happening.
+C O N C E P T
 
-Technologies are in a sense just cultural artefacts, which can be very confusing when we think of them as alienated or magical something that happens far away from us. 
+As part of an experience in June, we will be creating an interactive installation to show the concept of Future Cravings. Future Cravings is a methodology for climate action, using multi-sensory formats to ideate differently around climate issues. It is based on the original problem solving forum: the dinner table (or the fire pit depending on how far back you go) where the dinner experience combines visuals, sounds, storytelling and alternative materials prompting critical conversation.
 
-Decolonising technologies - We need a new way to talk about technology, it is something that we interact with all the time in our everyday lives and to again understand what it actually is. We have always made tools and artefacts (technologies) to survive. How can we start understanidng technology as a tool again? Can doing this also let us understand how different technolgies and methods are working or not working in favor of a better future for all, moving from extractive  to regenerative technologies.
 
-Protocols and platforms, Collected Intelligence and the 'Promise of the Web'. We are spending more time interacting and watching others through technology than we are interacting with other people in real life. The web that we thought would be a new place to be, without hierarchies etc are still owned by a few big companies that take decisions and earn money from things we cant control.
+The installation will be an interactive experience to illustrate visuals, sounds and artefacts within act of conversation and storytelling in a sensory experience to communicate the concept. To further visualise and communicate past and future dinner experiences posters will accompany the installation. To add an extra layer of communication we will create a series of interactive posters, using AR and 3D visuals to show the experience virtually. In doing so we can make our 2D posters engaging and playful. 
 
-How can we promote different ways of using the internet, empowering individuals to reclaim control of their own content and privacy? How could we use tools that the status quo wouldnt?
 
-In class we mapped out the wirings and paths when using the app Whatsapp to in a simplified way visualise what is happening. 
+P R O C E S S
 
-C O L L E C T I V E · I N T E L L I G E N C E S
-10.05.23
+First, we researched programs to work with AR and animation that could be easily opened with a phone by scanning an image or QR code. We started with A Frame because it is opensource and has webAR applications. 
 
-During this session we were introduced to Mar Canet Soa and how Varvera & Mar work with technology and code as artistic materials, creating tools that dont exist yet. We were shown some of their works and then introduced to NFTs and Block Chain. 
+There was difficulty in placing our 3D model into the code, and we wanted ways to manipulate animation as well. We switched to using Blippar and Meta Spark Studio programs to be able to import our 3D  models and animate them. 
 
-N F T
-NFT stands for 'non-fungible token' which is basically a unique digital identifier recorded in a blockchain. There's a unique and non-interchangeable unit of data stored on a digital ledger using blockchain technology to establish proof of ownership, as with cryptocurrenices like bitcoin. It is decentralised and open to scrutiny. 
+To create the model, we started out by creating a simple model of a dinner table with the tableware that was used in our first dinner. We wanted it to be simple and playful, and not too realistic. The model was built in Rhino, exported to Sketchfab in OBJ format, and imported into Blippar. 
 
-The blockchain technology means an NFT cannot be copied, substituted or subdivided, so it can be used to certify ownership of any kind of digital file, from art to music, games, videos and more. As well as establishing ownership, the fact that it prevents copies means that the technology creates scarcity, something that had been missing from digital art. A concept that began as an experiment in new technology and became a way for artists to take ownership of their work and control its value. 
-https://www.creativebloq.com/features/what-are-nfts
 
-B L O C K C H A I N
-Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system.
 
-A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain. Each block in the chain contains a number of transactions, and every time a new transaction occurs on the blockchain, a record of that transaction is added to every participant’s ledger. The decentralised database managed by multiple participants is known as Distributed Ledger Technology (DLT).
+S T E P  · 1 · **T E S T I N G - A R - A P P L I C A T I O N S**
 
-Blockchain is a type of DLT in which transactions are recorded with an immutable cryptographic signature called a hash (https://www.euromoney.com/learning/blockchain-explained/what-is-blockchain#:~:text=Blockchain%20is%20a%20system%20of,computer%20systems%20on%20the%20blockchain.).
+First, we tried using A Frame, and followed code that allowed you to scan from a Hiro image. This worked for the first part of the code which shows a cube in AR, but when trying to import our own 3D models into the code it wouldn't connect and show them. 
 
-During class we created our own Wallets where we received an amount of currency to create a profile on Tzk and then upload our own NFT on Objkt.
+![](https://hackmd.io/_uploads/rkL8vcQB2.jpg)
 
-![](https://hackmd.io/_uploads/BJxzc8q42.png) 
+https://aframe.io/
+https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf
 
-The concept around NFTs is an interesting reflection on what it means to 'own something'. What do we really own and does the feeling of owning soemthing have to be connected to holding the physical object in our hands? One can think so, yet many of the things we 'own' are fictional owning - a phone as an obejct we can hold in our hands but seemingly we are borrowing it where we cant change what is inside or decide what information will be shared, or owning land, creating a fictional boundary of a space we have decided to 'own', are we also owning what was on the land when purchased? The plants and insects, animals that were there before us? In a way an NFT is dort of just a projection of the world and fictional ownerships we have decided exist.
+
+As we are new to working with AR and animation overall and with limited time constrictions we started looking at other platforms intuitive to beginners. We started experimenting with Blippar. 
+
+Blippar is an online platform where you can build your own augmented reality experiences for the web. It is free, intuitive for beginners and requires no code. 
+It has a library of free 3D models, it's free to create, publish and share – with unlimited views.
+
+When using Blippar you need to accept terms and are redirected to Blippars webpage before viewing an image. We had wished to use a platform where images are shown directly when scanning a code, but in this case we still chose to use Blippar due to being user friendly for beginners as we wanted to during this experience practice animation and understand how to use AR.
+
+![](https://hackmd.io/_uploads/r1sLpy4B3.jpg)
+
+
+https://www.blippar.com/
+
+
+S T E P  · 2 · **3 D - M O D E L**
+
+The 3D model we used was created in Rhino - a dinner table with tableware in different forms to in this case illustrate how a dinner setting could look at a Future Cravings concept dinner, here with the topic of the sea. The file is exported as an OBJ which can be imported to Blender for animations as well as uploaded to SketchFab to be used directly in Blippar.
+
+This is the 3D model animated directly in Blippar, which we uploaded to SketchFab. We were able to play around with creating a background scene, lighting, and directional movements. We then did a version of the table animated in blender. 
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjSpt4ug0&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+This can be tested out here with the QR code:
+
+![](https://hackmd.io/_uploads/r1ePklNrh.jpg)
+
+
+
+S T E P  · 3 · **A N I M A T I O N - I N - B L E N D E R**
+
+The goal is to create an interaction with a 2D poster that plays with forms and shapes of the tableware that are shown in a poster. Meanwhile we also wanted to learn and practice using Blender for animation where this was a great opportunity to do this. 
+
+After importing the 3D file in OBJ format into Blender this tutorial (https://www.youtube.com/watch?v=CBJp82tlR3M) was followed to learn the basics of animation and to move objects in a scene. 
+
+Different actions of rotation, location and scale were added to the different objects on the table. 
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjSB5Y0CE&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a 
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjSIf2ivM&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a 
+
+
+S T E P  · 4 · **B L E N D E R - T O - B L I P P A R**
+
+   
+   
+The animation is then rendered into a video that can be uploaded directly to Blippar.
+   
+
+To make an AR video in Blippar you create a profile, start a project, choose a qr code image, where you can choose your own or let Blippar generate one for you. When in your new project you press the plus button to upload a file and choose your video file. Drag it to the scene and scale it to desired size. 
+   
+   
+   ![](https://hackmd.io/_uploads/B1yRXnQS3.png)
+
+
+   
+To preview press Preview Project at the top right where you will be prompted to go through the steps of scanning the codes before seeing the project in AR. 
+![](https://hackmd.io/_uploads/S1uh3qmBh.jpg)
+
+When happy with how it looks publish the project. The QR codes can then be placed where you want people to interact with them to view the AR experience directly with their phones. 
+   
+   
+   
+![](https://hackmd.io/_uploads/Sypv9pQS2.png)
+
+  
+   
+
+Example posters - This can be used on printed posters. With the QR code to access Blippars webpage and the AR code as an image. The animation starts as the image making it move when looking at it through your phone.
+   
+
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjSJOo8Ns&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+
+
+
+S T E P · 5 · **A N I M A T I O N  - I N -  M E T A S P A R K S - S T U D I O**
+
+
+Meta Spark Studio is a software platform designed for the creation and development of immersive virtual reality (VR) and augmented reality (AR) experiences. It is intuitive and user-friendly program that offers a wide range of tutorials for learning purposes. Also, it offers a variety of tools and features that helps to easily create what you have in mind. 
+   
+By following some tutorials on how to use the program en ended creating cool animations en AR by using image tracker. Initially, with objects, after with 3D Model Tableware. 
+
+After creating the animation, was able to create an instagram filter. This can be seen here:
+https://www.instagram.com/ar/259930709740588/?ch=NDhmZTNkNWE2NTJiODE2MmRiMjk2OTZlNDg1YTI0YmI%3D
+   
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjRMTUMXw&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a 
+
+Other explorations:
+   
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjSqky0vY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+
+##  F U R T H E R - E X P L O R A T I O N S
+
+The next step would be to make the table or moving objects be directly imported into AR. This way we can have free floating animated objects. Below the plant was built in Blender and coral was imported from SketchFab. Both were animated in blender and were able to be directly imported into Blippar as a .glb file. Only the scaling was able to be transferred, but not the rest of the animation. 
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjTSCEKtE&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjTpcKreY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+Coral SketchFab:
+https://sketchfab.com/3d-models/coral-c26e47859f0945d69a4e2944ee80b995
+
+Tutorial for plant:
+https://www.youtube.com/watch?v=Z1QG1FOvPk8&ab_channel=PolygonRunway
+
+Find the full documentation here: 
+
+
+R E F L E C T I O N S 
+
+To make the most out of this challenge working with interfaces we chose to work on things we wanted to learn more about and that can add to our project. I want to learn to use Blender for animations and used this challenge to parctice this. I have used different CAD programs before and work well in Rhino, yet it still took longer time than expected to find commands and tools in Blender. It was fun and quite simple to make basic animations that could work for our project and communicating it. I struggled with the small details of rendering and figuring out how the program works. Realistically I know how time sonsuming it is to learn a new program, but it's still amusing the amount of time spent on getting stuck on basic prompts before learning where they are in a new program. Im greatful we as a group decided to use the AR program Blippar instead of also having to code in A Frame to make AR animations, now we at least got the chance to produce simple things and get to know how Blender, animation and AR with Blippar without too many frustrations. This resulted in for me at least, that I want to continue and refine what we did during the two and a half days that a Microchallenge is, and keep working on making it better for the MDEFest. As well as learn more animation in Blender, where using it for two days helps a lot to find your way in the program and how its built.
