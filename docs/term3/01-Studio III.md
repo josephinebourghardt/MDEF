@@ -58,3 +58,40 @@ Assignment · U P D A T E D   D E S I G N   S P A C E
 
 ![](https://hackmd.io/_uploads/Hk4ApDhU3.jpg)
 
+
+M D E F e s t
+
+For the MDEFest we will be continuing a collaboration that arose from the first dinner experience where we will be translating the methodology to an installation that will be a part of Garage Stories opening ceromony for their new studio in Barceloneta. The installation will be an interactive experience to illustrate visuals, sounds and artefacts within act of conversation and storytelling in a sensory experience to communicate the concept. To further visualise the concept and dinner experiences interactive posters will accompany the installation to advertise the concept for new topics and participants. 
+
+*‘A Cocktail with the Sea’ - An immersive experience of the five layers of the sea, activating the senses with visuals, artefacts, sound, taste and smell.*
+
+*Join us at Future Cravings for the Opening of Garage Stories Barcelona, where you’ll have the opportunity to enjoy a refreshing Corpen Gin cocktail while immersing yourself in an installation that reflects the five zones of the ocean. Experience the challenges faced by our oceans due to microplastics, contemplate your personal connection to the water, and connect with likeminded sea practitioners.*
+
+It will take place the 18th of June where we will be collaborating with Martha and Garage Stories, as well as Corpen Gin that will be providing us with gin from their destillery. A collaboration that arose from mutual interests in Micro Plastics. They will also be attending the event. 
+
+
+![](https://hackmd.io/_uploads/B12L1u2Ln.jpg)
+
+It is to be an interactive installation centered around the five layers of the sea that we worked through furing the dinner with the topic sea pollution. Through light, sound, objects, taste and smell the installation goes through different phases when guiding the audience through the different layers of the sea.
+
+Entering a dark room the audience start the experience at the bottom of the sea - the darkness and room interupting the body from the outside air, sounds and light. The audience walks through a dark blue room with floating plastics and bio materials. This installation of objects transforming the way people travel through the space - ‘if we can wake up someones body, we might wake up their mind’. The shapes are deformed, yet familiar, taking something people can understand to use it in a way to explain something they might not understand, hopefully considering it in a new way. Throughout the journey the blue room is getting lighter while moving through the layers of the sea to the surface, all the while guided by a narrator prompting questions and movements. 
+
+The experience comes to its final stages of recycled plastic tables with jello cakes on bio material plates, where you eat from a blue mussel shell spoon each - acting as an interuption of the silent audience welcoming them to share food and experiences. Meanwhile gin drinks are served in shell glasses, sponsored by Corpen Gin - fully committed to decrease microplastics in the oceans as well. 
+
+Through the experience we wanted to consider as many senses as possible, as the more senses involved the more porwerful the experience can be. 
+![](https://hackmd.io/_uploads/HkXe-d3Lh.jpg)
+
+While testing and experimenting with materials, waste, water and light we worked with movement. creating a mobile with water hanging. The different weight of the water in the different holders automatically creates a flowing movement. 
+
+The objects are a translation of the dinner experience, using familiar objects as plastic bottles in an unrecognizable way to create a new way of seeing and understanding things. These are combined with bio materials, showing possibilities of materials that may not affect the sea in the same way. 
+
+There will be three mobiles hanging in the room, each with different amounts of water inside, creating movement in different directions and speeds. By placing them with paths inbetween they can transform the way guests move in the space, becoming a part of the installation, where lights are creating shadows all around the room from both the obejcts and people.
+![](https://hackmd.io/_uploads/BJmdJO3I3.jpg)
+During the event we have partnered with Corpen Gin one of Barcelona’s first urban craft distilleries. They are known for their exceptional gin, liqueurs, and other beverages that deviate from the ordinary. Not only do they prioritize quality and taste, but they also champion sustainability. Corpen Gin bottles are crafted from recycled glass, their caps are made of wood and cork, and even the capsule on top of the cap is composed of cellulose. They actively embrace circular economy practices and repurpose by-products from their gin distillation process to create their Whitecap Bitters. 
+
+Together we have been working on creating a drink for the event that vidualises the sea, yet tastes great, trying different recipes and additions to create a colorful blue drink that emphasises the topic of the sea. After experimenting we will be serving a gin tonic with pea flowers that create a blue color, slowly transforming into purple when adding tonic. 
+![](https://hackmd.io/_uploads/BkutJ_hLh.jpg)
+As through the dinner we aim to activate as many sense as possible with visuals, sounds, taset and smell. Together with the drink served guests are also served a jello cake placed on recycled plastic tables that we have created for the event. They are served as a collaborative meal, where everyone takes a sppon each and eats from different tables. A way to engage conversations and move around the room. 
+
+
+
