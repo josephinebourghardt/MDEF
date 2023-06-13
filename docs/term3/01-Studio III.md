@@ -25,38 +25,39 @@ It is done by randomly choosing a part of the beach, the top part of the sand in
 
 Sami and I then presented the work we've done during the beach cleanups, where we have brought different nets and tools to collect microplastics. 
 
-![](https://hackmd.io/_uploads/SJU5XUUE3.jpg)
+![](../images/StudioIII/cbi4.jpg)
+
 
 Therafter we had organised a brainstorming session to collectively reflect on what we had learned during the workshop and reflections about the beach cleanups, and different ways to approach solutions to waste, collection and 
-![](https://hackmd.io/_uploads/S17qQULVh.jpg)
-![](https://hackmd.io/_uploads/ryVcmI8Vh.jpg)
-![](https://hackmd.io/_uploads/SkwcmILVh.jpg)
+![](../images/StudioIII/cbi2.jpg)
+![](../images/StudioIII/cbi3.jpg)
+![](../images/StudioIII/cbi5.jpg)
 
 From the experience we had thought to look at ways of creating tools or possibilities for citizens and Clean Beach Initiative to use, although what became evidident was that first citizens need to become aware of the impact they can have by taking action. If participants of the group we were working with, that regularily go to beach cleanups were unaware of the amounts of microplastics in our environment and where they come from, we concluded that citizens outside of this community could also be unaware - of microplastics and waste on coastlines overall. 
 
 
 During the beach cleanups we could see trends of where certain types of waste were normally found and collected. Micro plastics are mostly found in patches close to the meetup point and closer to the shoreline where the wind and sea havecollected them in patches. Cigarette butts are found all around the beach although it is now a nonsmoking beach, yet around the pathway there are large concentrations as well as all along the stroke in front of the beach clubs. Every Saturday during the beach clean ups there are large amounts of cigarette butts, lollipop sticks, plastic glasses and cans in this area. In frnt of the beach clubs along the shore there are during the day sunbeds, around these there are large amounts of cigarette butts as well. 
 
-![](https://hackmd.io/_uploads/BylC7P38h.jpg)
+![](../images/StudioIII/cbi13.jpg)
 
 
 
 Overall what is mostly found is cigarette butts, lollipop sticks, plastic and paper straws, cans, plsatic cups and bottles, plastic packaging, aluminium foil and packaging, paper cups and packaging, styrophoam, micro plstics, organic waste and fishing line and gear. 
-![](https://hackmd.io/_uploads/SJ13XDnLn.jpg)
+![](../images/StudioIII/cbi6.jpg)
+
 Clean Beach Initiative documents all the waste that is sorted and weighed at the end of each beach cleanup and posts the findings on their Instagram once a week. We volunteer every Saturday for one hour and know how much is collected, but how much did we collect in total? We started visualising how much waste this organisation and their volunteers collect every month and every year. Could it help to show the amount of waste collected in a very short amount of time in a visualisation to create awareness of the impact one hour a week can have?
 
-![](https://hackmd.io/_uploads/ByCH4DnU2.jpg)
-![](https://hackmd.io/_uploads/rkeIVD3U3.jpg)
-![](https://hackmd.io/_uploads/rJbLVw3Uh.jpg)
-![](https://hackmd.io/_uploads/r18LVw3I2.jpg)
-![](https://hackmd.io/_uploads/Hkgd8Vw283.jpg)
+![](../images/StudioIII/cbi8.jpg)
+![](../images/StudioIII/cbi9.jpg)
+![](../images/StudioIII/cbi10.jpg)
+![](../images/StudioIII/cbi11.jpg)
+![](../images/StudioIII/cbi15.jpg)
+
 
 Assignment · U P D A T E D   D E S I G N   S P A C E 
 
 
-![](https://hackmd.io/_uploads/HJviND3Ih.png)
-
-![](https://hackmd.io/_uploads/Hk4ApDhU3.jpg)
+![](../images/StudioIII/ds.jpg)
 
 
 M D E F e s t
@@ -70,7 +71,7 @@ For the MDEFest we will be continuing a collaboration that arose from the first 
 It will take place the 18th of June where we will be collaborating with Martha and Garage Stories, as well as Corpen Gin that will be providing us with gin from their destillery. A collaboration that arose from mutual interests in Micro Plastics. They will also be attending the event. 
 
 
-![](https://hackmd.io/_uploads/B12L1u2Ln.jpg)
+![](../images/StudioIII/fc3.jpg)
 
 It is to be an interactive installation centered around the five layers of the sea that we worked through furing the dinner with the topic sea pollution. Through light, sound, objects, taste and smell the installation goes through different phases when guiding the audience through the different layers of the sea.
 
@@ -79,18 +80,18 @@ Entering a dark room the audience start the experience at the bottom of the sea 
 The experience comes to its final stages of recycled plastic tables with jello cakes on bio material plates, where you eat from a blue mussel shell spoon each - acting as an interuption of the silent audience welcoming them to share food and experiences. Meanwhile gin drinks are served in shell glasses, sponsored by Corpen Gin - fully committed to decrease microplastics in the oceans as well. 
 
 Through the experience we wanted to consider as many senses as possible, as the more senses involved the more porwerful the experience can be. 
-![](https://hackmd.io/_uploads/HkXe-d3Lh.jpg)
+![](../images/StudioIII/fc5.jpg)
 
 While testing and experimenting with materials, waste, water and light we worked with movement. creating a mobile with water hanging. The different weight of the water in the different holders automatically creates a flowing movement. 
 
 The objects are a translation of the dinner experience, using familiar objects as plastic bottles in an unrecognizable way to create a new way of seeing and understanding things. These are combined with bio materials, showing possibilities of materials that may not affect the sea in the same way. 
 
 There will be three mobiles hanging in the room, each with different amounts of water inside, creating movement in different directions and speeds. By placing them with paths inbetween they can transform the way guests move in the space, becoming a part of the installation, where lights are creating shadows all around the room from both the obejcts and people.
-![](https://hackmd.io/_uploads/BJmdJO3I3.jpg)
+![](../images/StudioIII/fc.jpg)
 During the event we have partnered with Corpen Gin one of Barcelona’s first urban craft distilleries. They are known for their exceptional gin, liqueurs, and other beverages that deviate from the ordinary. Not only do they prioritize quality and taste, but they also champion sustainability. Corpen Gin bottles are crafted from recycled glass, their caps are made of wood and cork, and even the capsule on top of the cap is composed of cellulose. They actively embrace circular economy practices and repurpose by-products from their gin distillation process to create their Whitecap Bitters. 
 
 Together we have been working on creating a drink for the event that vidualises the sea, yet tastes great, trying different recipes and additions to create a colorful blue drink that emphasises the topic of the sea. After experimenting we will be serving a gin tonic with pea flowers that create a blue color, slowly transforming into purple when adding tonic. 
-![](https://hackmd.io/_uploads/BkutJ_hLh.jpg)
+![](../images/StudioIII/fc2.jpg)
 As through the dinner we aim to activate as many sense as possible with visuals, sounds, taset and smell. Together with the drink served guests are also served a jello cake placed on recycled plastic tables that we have created for the event. They are served as a collaborative meal, where everyone takes a sppon each and eats from different tables. A way to engage conversations and move around the room. 
 
 
