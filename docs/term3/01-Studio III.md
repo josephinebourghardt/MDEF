@@ -94,4 +94,3 @@ Together we have been working on creating a drink for the event that vidualises 
 As through the dinner we aim to activate as many sense as possible with visuals, sounds, taset and smell. Together with the drink served guests are also served a jello cake placed on recycled plastic tables that we have created for the event. They are served as a collaborative meal, where everyone takes a sppon each and eats from different tables. A way to engage conversations and move around the room. 
 
 
-

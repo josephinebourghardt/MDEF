@@ -27,6 +27,28 @@ During this class we were introduced to robots, how they work, what they can do 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ycJ9lMgZVuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+B L E N D E R
+
+20.04.23
+
+There is always a lot of discussion on wich 3d modeling tool is the best to learn and use, most of the time it comes down to personal preference and becomes an almost religious fight.
+In my opinion we should talk and think about some other aspects on why we choose one tool or the other, here are some thoughs:
+The tools that we use, shape ourselves and the things we do.
+The design of the tool, limits our capacity to create solutions, and influences how we face problems.
+Our creative freedom has to struggle against the rules imposed by the tool itself.
+The reasons that motivate tool designer decisions are not always aligned with our objectives.
+In commercial tools, profit is prioritized in design decisions.
+A tool that is created by a comunity has more potential to be diverse in the paradigms it imposes.
+Modifying the tool itself should be a normal part of the creative process to allow a wider range of outputs.
+An open source tool by definition allows (and even promotes) us to change it to fit our needs.
+
+Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. Advanced users employ Blender’s API for Python scripting to customize the application and write specialized tools; often these are included in Blender’s future releases. Blender is well suited to individuals and small studios who benefit from its unified pipeline and responsive development process. Examples from many Blender-based projects are available in the showcase.
+Blender is cross-platform and runs equally well on Linux, Windows, and Macintosh computers. Its interface uses OpenGL to provide a consistent experience. To confirm specific compatibility, the list of supported platforms indicates those regularly tested by the development team.
+As a community-driven project under the GNU General Public License (GPL), the public is empowered to make small and large changes to the code base, which leads to new features, responsive bug fixes, and better usability. Blender has no price tag, but you can invest, participate, and help to advance a powerful collaborative tool: Blender is your own 3D software.
+from blender.org
+
+https://www.epidemicsound.com/blog/blender-software/
+
 H U M A N   I N T E R F A C E
 
 26.04.23
