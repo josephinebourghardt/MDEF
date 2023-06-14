@@ -81,7 +81,7 @@ The experience comes to its final stages of recycled plastic tables with jello c
 
 Through the experience we wanted to consider as many senses as possible, as the more senses involved the more porwerful the experience can be. 
 ![](../images/StudioIII/fc5.jpg)
-
+![](../images/StudioIII/fc1.jpg)
 While testing and experimenting with materials, waste, water and light we worked with movement. creating a mobile with water hanging. The different weight of the water in the different holders automatically creates a flowing movement. 
 
 The objects are a translation of the dinner experience, using familiar objects as plastic bottles in an unrecognizable way to create a new way of seeing and understanding things. These are combined with bio materials, showing possibilities of materials that may not affect the sea in the same way. 
